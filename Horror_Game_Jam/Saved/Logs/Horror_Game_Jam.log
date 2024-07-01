@@ -1533,3 +1533,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.01-14.20.49:013][ 78]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Hospital_Hall/瓷器_001.瓷器_001
 [2024.07.01-14.20.49:013][ 78]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Hospital_Hall/白色灯片_001.白色灯片_001
 [2024.07.01-14.20.49:013][ 78]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Hospital_Hall/金属_铝合金11_001.金属_铝合金11_001
+[2024.07.01-14.28.27:450][940]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.3.2-29314046+++UE5+Release-5.3
+[2024.07.01-14.28.29:523][940]LogAnalyticsSessionSummarySender: Sent summary session report for: AppId=UEEditor.Rocket.Release SessionId={51476600-4C42-DD9B-D7A3-1B8020F66DA9}
