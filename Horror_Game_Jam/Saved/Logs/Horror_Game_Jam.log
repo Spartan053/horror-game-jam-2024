@@ -1846,3 +1846,14 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.04-11.17.50:435][912]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43880502_1732861740
 [2024.07.04-11.17.50:435][912]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43880502_1773942741
 [2024.07.04-11.17.50:435][912]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_6C240845FE43880502_1799160742
+[2024.07.04-11.24.38:248][849]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.07.04-11.24.38:259][849]LogContentBrowser: Creating deferred item: NewFolder
+[2024.07.04-11.24.38:272][850]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.07.04-11.24.44:896][248]LogContentBrowser: Attempting asset rename: NewFolder -> Enemies
+[2024.07.04-11.24.44:898][248]LogContentBrowser: End creating deferred item NewFolder
+[2024.07.04-11.25.21:311][615]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.04-11.25.21:428][615]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.04-11.25.58:040][615]LogSlate: Window 'Interchange Pipeline Configuration (Import Content)' being destroyed
+[2024.07.04-11.25.58:059][615]LogInterchangeEngine: [Pending] Importing
+[2024.07.04-11.25.58:059][615]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/goose.glb]
+[2024.07.04-11.25.58:069][616]LogAutomationController: Ignoring very large delta of 67.07 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
