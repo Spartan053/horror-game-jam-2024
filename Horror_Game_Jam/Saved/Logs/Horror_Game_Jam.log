@@ -2118,3 +2118,237 @@ An asset already exists at the import location: /Game/Elevator/Elevator
 [2024.07.04-16.04.10:088][930]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2024.07.04-16.04.10:088][930]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
 [2024.07.04-16.04.10:088][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.04-16.12.35:795][303]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.3.2-29314046+++UE5+Release-5.3
+[2024.07.04-16.12.37:855][303]LogAnalyticsSessionSummarySender: Sent summary session report for: AppId=UEEditor.Rocket.Release SessionId={08221AB5-4689-18FB-3918-FBA1B22DC6C9}
+[2024.07.04-16.12.37:859][304]LogAutomationController: Ignoring very large delta of 2.08 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.07.04-16.13.32:015][532]LogLinker: Warning: Failed to load '/Game/FirstPersonArms/Character/Mesh/SKM_Mannequin': Can't find file.
+[2024.07.04-16.13.32:015][532]LogLinker: Warning: Failed to load '/Game/FirstPersonArms/Character/Mesh/SKM_Mannequin': Can't find file.
+[2024.07.04-16.13.32:016][532]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonArms/Character/Mesh/SKM_Mannequin.SKM_Mannequin'
+[2024.07.04-16.13.32:033][533]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.04-16.13.32:576][560]LogShaderCompilers: Display: ================================================
+[2024.07.04-16.13.32:576][560]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.04-16.13.32:576][560]LogShaderCompilers: Display: Total job queries 339, among them cache hits 298 (87.91%)
+[2024.07.04-16.13.32:577][560]LogShaderCompilers: Display: Tracking 38 distinct input hashes that result in 32 distinct outputs (84.21%)
+[2024.07.04-16.13.32:577][560]LogShaderCompilers: Display: RAM used: 864.04 KiB of 716.80 MiB budget. Usage: 0.12%
+[2024.07.04-16.13.32:577][560]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.07.04-16.13.32:577][560]LogShaderCompilers: Display: Shaders Compiled: 9
+[2024.07.04-16.13.32:577][560]LogShaderCompilers: Display: Jobs assigned 12, completed 9 (75.00%)
+[2024.07.04-16.13.32:577][560]LogShaderCompilers: Display: Average time worker was idle: 1622.25 s
+[2024.07.04-16.13.32:577][560]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.08 s
+[2024.07.04-16.13.32:577][560]LogShaderCompilers: Display: Job execution time: average 0.54 s, max 0.68 s
+[2024.07.04-16.13.32:577][560]LogShaderCompilers: Display: Job life time (pending + execution): average 0.59 s, max 0.75
+[2024.07.04-16.13.32:577][560]LogShaderCompilers: Display: Shader code size: average 33.866 KiB, min 29.711 KiB, max 35.902 KiB
+[2024.07.04-16.13.32:577][560]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.76 s
+[2024.07.04-16.13.32:577][560]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.07.04-16.13.32:577][560]LogShaderCompilers: Display: Average processing rate: 5.11 jobs/sec
+[2024.07.04-16.13.32:577][560]LogShaderCompilers: Display: Total thread time: 2.195 s
+[2024.07.04-16.13.32:577][560]LogShaderCompilers: Display: Total thread preprocess time: 0.27 s
+[2024.07.04-16.13.32:577][560]LogShaderCompilers: Display: Percentage time preprocessing: 12.32%
+[2024.07.04-16.13.32:577][560]LogShaderCompilers: Display: Effective parallelization: 1.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.07.04-16.13.32:577][560]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.07.04-16.13.32:577][560]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.30 sec, max 0.31 sec, min 0.29 sec)
+[2024.07.04-16.13.32:577][560]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.30 sec, max 0.31 sec, min 0.29 sec)
+[2024.07.04-16.13.32:577][560]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.29 sec, max 0.30 sec, min 0.27 sec)
+[2024.07.04-16.13.32:577][560]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    3 times, average 0.14 sec, max 0.15 sec, min 0.14 sec)
+[2024.07.04-16.13.32:577][560]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.07.04-16.13.32:577][560]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 27.40% of total time (compiled    2 times, average 0.30 sec, max 0.31 sec, min 0.29 sec)
+[2024.07.04-16.13.32:577][560]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.10% of total time (compiled    2 times, average 0.30 sec, max 0.31 sec, min 0.29 sec)
+[2024.07.04-16.13.32:577][560]LogShaderCompilers: Display:                                                 FLumenCardVS - 26.08% of total time (compiled    2 times, average 0.29 sec, max 0.30 sec, min 0.27 sec)
+[2024.07.04-16.13.32:577][560]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 19.42% of total time (compiled    3 times, average 0.14 sec, max 0.15 sec, min 0.14 sec)
+[2024.07.04-16.13.32:577][560]LogShaderCompilers: Display: ================================================
+[2024.07.04-16.13.33:384][603]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.04-16.13.34:579][665]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.04-16.13.34:607][666]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.04-16.13.34:676][669]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.04-16.13.34:773][672]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.04-16.13.34:873][677]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.04-16.13.34:922][679]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.04-16.13.36:664][775]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.07.04-16.13.36:664][775]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.04-16.13.36:664][775]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.04-16.13.50:694][594]LogViewport: Scene viewport resized to 1139x639, mode Windowed.
+[2024.07.04-16.14.51:445][983]LogDerivedDataCache: C:/Users/david/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:28.320 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 14418 files in 17287 folders with total size 1971 MiB.
+[2024.07.04-16.17.46:117][903]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.07.04-16.17.46:214][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.07.04-16.17.54:648][359]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.07.04-16.17.54:732][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.07.04-16.19.15:162][912]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.07.04-16.19.15:186][912]LogBlueprint: Warning: [AssetLog] C:\Users\david\OneDrive\Desktop\HorrorGame\horror-game-jam-2024\Horror_Game_Jam\Horror_Game_Jam\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] 'Spot Light' does not inherit from 'Spot Light Component' ( Cast To SpotLight  would always fail).
+[2024.07.04-16.19.15:230][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.07.04-16.19.56:250][328]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.07.04-16.19.56:275][328]LogBlueprint: Warning: [AssetLog] C:\Users\david\OneDrive\Desktop\HorrorGame\horror-game-jam-2024\Horror_Game_Jam\Horror_Game_Jam\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] 'Spot Light' does not inherit from 'Player Controller' ( Cast To SpotLight  would always fail).
+[2024.07.04-16.19.56:317][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.07.04-16.20.08:771][ 37]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.07.04-16.20.08:794][ 37]LogBlueprint: Warning: [AssetLog] C:\Users\david\OneDrive\Desktop\HorrorGame\horror-game-jam-2024\Horror_Game_Jam\Horror_Game_Jam\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] 'Spot Light' does not inherit from 'BP First Person Character' ( Cast To SpotLight  would always fail).
+[2024.07.04-16.20.08:837][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.07.04-16.20.25:707][ 34]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.07.04-16.20.25:731][ 34]LogBlueprint: Error: [AssetLog] C:\Users\david\OneDrive\Desktop\HorrorGame\horror-game-jam-2024\Horror_Game_Jam\Horror_Game_Jam\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] This blueprint (self) is not a SpotLight, therefore ' Target ' must have a connection.
+[2024.07.04-16.20.25:734][ 34]LogBlueprint: Error: [AssetLog] C:\Users\david\OneDrive\Desktop\HorrorGame\horror-game-jam-2024\Horror_Game_Jam\Horror_Game_Jam\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] Variable node  Get SpotLightComponent  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2024.07.04-16.20.25:773][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.07.04-16.20.58:377][955]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.07.04-16.20.58:401][955]LogBlueprint: Error: [AssetLog] C:\Users\david\OneDrive\Desktop\HorrorGame\horror-game-jam-2024\Horror_Game_Jam\Horror_Game_Jam\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To SpotLight  to imply a specific type.
+[2024.07.04-16.20.58:404][955]LogBlueprint: Error: [AssetLog] C:\Users\david\OneDrive\Desktop\HorrorGame\horror-game-jam-2024\Horror_Game_Jam\Horror_Game_Jam\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2024.07.04-16.20.58:441][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.07.04-16.21.06:808][438]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.07.04-16.21.06:832][438]LogBlueprint: Error: [AssetLog] C:\Users\david\OneDrive\Desktop\HorrorGame\horror-game-jam-2024\Horror_Game_Jam\Horror_Game_Jam\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To SpotLight  to imply a specific type.
+[2024.07.04-16.21.06:834][438]LogBlueprint: Error: [AssetLog] C:\Users\david\OneDrive\Desktop\HorrorGame\horror-game-jam-2024\Horror_Game_Jam\Horror_Game_Jam\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2024.07.04-16.21.06:871][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.07.04-16.21.30:982][827]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.07.04-16.21.31:006][827]LogBlueprint: Warning: [AssetLog] C:\Users\david\OneDrive\Desktop\HorrorGame\horror-game-jam-2024\Horror_Game_Jam\Horror_Game_Jam\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] 'Spot Light' does not inherit from 'BP First Person Character' ( Cast To SpotLight  would always fail).
+[2024.07.04-16.21.31:006][827]LogBlueprint: Error: [AssetLog] C:\Users\david\OneDrive\Desktop\HorrorGame\horror-game-jam-2024\Horror_Game_Jam\Horror_Game_Jam\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_FirstPersonCharacter  to imply a specific type.
+[2024.07.04-16.21.31:009][827]LogBlueprint: Error: [AssetLog] C:\Users\david\OneDrive\Desktop\HorrorGame\horror-game-jam-2024\Horror_Game_Jam\Horror_Game_Jam\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2024.07.04-16.21.31:047][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.07.04-16.21.37:851][200]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.07.04-16.21.37:876][200]LogBlueprint: Warning: [AssetLog] C:\Users\david\OneDrive\Desktop\HorrorGame\horror-game-jam-2024\Horror_Game_Jam\Horror_Game_Jam\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] 'Spot Light' does not inherit from 'BP First Person Character' ( Cast To SpotLight  would always fail).
+[2024.07.04-16.21.37:921][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.07.04-16.21.44:148][562]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.04-16.21.44:275][562]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.07.04-16.21.44:276][562]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/BP_FirstPersonCharacterF486E2CE43A01AD633212EB81F954EB1.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.07.04-16.21.44:286][562]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 2.14 sec)
+[2024.07.04-16.21.44:288][562]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.07.04-16.21.44:288][562]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.07.04-16.21.47:492][742]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2024.07.04-16.21.49:469][857]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.04-16.21.49:474][857]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.07.04-16.21.49:474][857]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.07.04-16.21.49:478][857]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 3 ms (total: 26 ms)
+[2024.07.04-16.21.49:478][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.04-16.21.49:478][857]PIE: New page: PIE session: FirstPersonMap (4 Jul 2024, 18:21:49)
+[2024.07.04-16.21.49:489][857]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.07.04-16.21.49:495][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006242s)
+[2024.07.04-16.21.49:495][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006296s)
+[2024.07.04-16.21.49:513][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.07.04-16.21.49:517][857]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.04-16.21.49:517][857]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.04-16.21.49:517][857]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.07.04-16.21.49:518][857]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.07.04-16.21.49:518][857]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.04-16.21.49:518][857]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.07.04-16.21.49:518][857]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.07.04-16.21.49:519][857]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.07.04-16.21.49:520][857]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 968 ms)
+[2024.07.04-16.21.49:520][857]LogPlayLevel: PIE: World Init took: (0.002955s)
+[2024.07.04-16.21.49:520][857]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.07.04-16.21.49:520][857]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.04-16.21.49:520][857]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.04-16.21.49:520][857]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.04-16.21.49:520][857]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.04-16.21.49:520][857]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.04-16.21.49:520][857]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.04-16.21.49:520][857]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.04-16.21.49:520][857]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.04-16.21.49:521][857]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.04-16.21.49:521][857]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.04-16.21.49:521][857]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.04-16.21.49:523][857]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.04-16.21.49:570][857]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.07.04-16.21.49:571][857]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.04-16.21.49:571][857]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.04-16.21.49:571][857]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.04-16.21.49:572][857]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.07.04-16.21.49:572][857]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.07.04-16.21.49:573][857]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.07.04-16.21.49:573][857]LogInit: FAudioDevice initialized with ID 8.
+[2024.07.04-16.21.49:573][857]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.07.04-16.21.49:573][857]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstPersonMap'.
+[2024.07.04-16.21.49:573][857]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.07.04-16.21.49:576][857]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.07.04-16.21.49:581][857]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2024.07.04-17.21.49
+[2024.07.04-16.21.49:581][857]LogWorld: Bringing up level for play took: 0.004690
+[2024.07.04-16.21.49:583][857]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.07.04-16.21.49:587][857]PIE: Server logged in
+[2024.07.04-16.21.49:588][857]PIE: Play in editor total start time 0.114 seconds.
+[2024.07.04-16.21.53:691][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.04-16.21.53:691][ 95]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.07.04-16.21.53:693][ 95]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.04-16.21.53:693][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.04-16.21.53:693][ 95]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.07.04-16.21.53:696][ 95]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.04-16.21.53:700][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.04-16.21.53:717][ 95]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.04-16.21.53:717][ 95]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.07.04-16.21.53:717][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.07.04-16.21.53:719][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.07.04-16.21.53:724][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.04-16.21.53:727][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.07.04-16.21.53:790][ 96]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.07.04-16.33.22:380][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.07.04-16.33.22:383][725]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.022
+[2024.07.04-16.33.22:383][725]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.07.04-16.33.22:461][725]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2024.07.04-16.33.22:461][725]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.07.04-16.33.22:481][725]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto2
+[2024.07.04-16.33.22:481][725]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/BP_FirstPersonCharacter_Auto20F97EDCE4D7594F8292EF1ADDA66F69F.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto2.uasset'
+[2024.07.04-16.33.22:481][725]LogFileHelpers: Auto-saving content packages took 0.099
+[2024.07.04-16.34.16:850][156]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.07.04-16.34.16:914][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.07.04-16.34.45:529][897]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.04-16.34.45:676][897]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.07.04-16.34.45:676][897]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/BP_FirstPersonCharacter9D11D3364F33F65A4BB959BF4BB6120C.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.07.04-16.34.45:683][897]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 2.29 sec)
+[2024.07.04-16.34.45:684][897]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.07.04-16.34.45:684][897]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.07.04-16.34.47:713][ 10]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.04-16.34.47:719][ 10]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.07.04-16.34.47:719][ 10]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.07.04-16.34.47:721][ 10]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 29 ms)
+[2024.07.04-16.34.47:721][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.04-16.34.47:721][ 10]PIE: New page: PIE session: FirstPersonMap (4 Jul 2024, 18:34:47)
+[2024.07.04-16.34.47:722][ 10]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.07.04-16.34.47:727][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005681s)
+[2024.07.04-16.34.47:727][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005712s)
+[2024.07.04-16.34.47:744][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.07.04-16.34.47:747][ 10]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.04-16.34.47:747][ 10]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.04-16.34.47:748][ 10]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.07.04-16.34.47:748][ 10]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.07.04-16.34.47:748][ 10]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.04-16.34.47:748][ 10]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.07.04-16.34.47:748][ 10]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.07.04-16.34.47:750][ 10]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.07.04-16.34.47:750][ 10]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 969 ms)
+[2024.07.04-16.34.47:750][ 10]LogPlayLevel: PIE: World Init took: (0.002743s)
+[2024.07.04-16.34.47:750][ 10]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.07.04-16.34.47:750][ 10]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.04-16.34.47:750][ 10]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.04-16.34.47:750][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.04-16.34.47:750][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.04-16.34.47:750][ 10]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.04-16.34.47:750][ 10]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.04-16.34.47:750][ 10]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.04-16.34.47:750][ 10]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.04-16.34.47:750][ 10]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.04-16.34.47:750][ 10]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.04-16.34.47:750][ 10]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.04-16.34.47:752][ 10]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.04-16.34.47:793][ 10]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.07.04-16.34.47:793][ 10]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.04-16.34.47:793][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.04-16.34.47:793][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.04-16.34.47:794][ 10]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.07.04-16.34.47:794][ 10]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.07.04-16.34.47:796][ 10]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.07.04-16.34.47:796][ 10]LogInit: FAudioDevice initialized with ID 9.
+[2024.07.04-16.34.47:796][ 10]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.07.04-16.34.47:796][ 10]LogAudio: Display: Audio Device (ID: 9) registered with world 'FirstPersonMap'.
+[2024.07.04-16.34.47:796][ 10]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.07.04-16.34.47:799][ 10]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.07.04-16.34.47:802][ 10]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 60) at 2024.07.04-17.34.47
+[2024.07.04-16.34.47:802][ 10]LogWorld: Bringing up level for play took: 0.003238
+[2024.07.04-16.34.47:805][ 10]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.07.04-16.34.47:807][ 10]PIE: Server logged in
+[2024.07.04-16.34.47:808][ 10]PIE: Play in editor total start time 0.089 seconds.
+[2024.07.04-16.35.35:654][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.04-16.35.35:654][873]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.07.04-16.35.35:654][873]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.04-16.35.35:654][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.04-16.35.35:655][873]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.07.04-16.35.35:658][873]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.04-16.35.35:661][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.04-16.35.35:677][873]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.04-16.35.35:677][873]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.07.04-16.35.35:677][873]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.07.04-16.35.35:680][873]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.07.04-16.35.35:686][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.04-16.35.35:689][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.07.04-16.35.35:750][874]LogPlayLevel: Display: Destroying online subsystem :Context_28
