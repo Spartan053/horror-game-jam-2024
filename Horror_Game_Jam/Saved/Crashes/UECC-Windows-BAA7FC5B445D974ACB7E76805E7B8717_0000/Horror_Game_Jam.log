@@ -1161,21 +1161,3 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.07-23.20.29:646][102]LogSkeletalMesh: Section 2: Material=2, 31744 triangles
 [2024.11.07-23.20.30:698][102]LogSkeletalMesh: Building Skeletal Mesh Zombie_Attack...
 [2024.11.07-23.20.30:727][102]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Zombie_Attack) ...
-[2024.11.07-23.20.40:714][102]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' exceeded budget of 10.000000s, reporting...
-[2024.11.07-23.20.40:860][102]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' report submitted, and took 0.146685s
-[2024.11.07-23.20.41:824][102]LogSkeletalMesh: Display: /Game/monster/Animations/Zombie_Attack.Zombie_Attack ComputeTangents MikkTSpace function: Compute a zero length normal vector.
-[2024.11.07-23.21.08:330][102]LogSkeletalMesh: Built Skeletal Mesh [37.63s] /Game/monster/Animations/Zombie_Attack.Zombie_Attack
-[2024.11.07-23.21.08:593][102]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' complete in 37.884286s (27.884286s overbudget)
-[2024.11.07-23.21.09:053][102]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
-[2024.11.07-23.21.09:053][102]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
-[2024.11.07-23.21.09:076][102]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
-[2024.11.07-23.21.09:080][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2024.11.07-23.21.09:129][102]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Zombie_Attack) ...
-[2024.11.07-23.21.09:937][102]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
-[2024.11.07-23.21.10:182][102]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
-[2024.11.07-23.21.10:454][103]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
-[2024.11.07-23.21.10:839][107]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
-[2024.11.07-23.21.17:619][344]LogSlate: Window 'Content Browser' being destroyed
-[2024.11.07-23.21.17:648][344]LogSlate: Window 'Content Browser' being destroyed
-[2024.11.07-23.21.18:857][387]LogSlate: Window 'Message Log' being destroyed
-[2024.11.07-23.21.18:875][387]LogSlate: Window 'Message Log' being destroyed
