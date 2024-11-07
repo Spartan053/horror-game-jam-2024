@@ -1235,3 +1235,110 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.07-23.26.00:762][ 24]LogSlate: Window 'Content Browser' being destroyed
 [2024.11.07-23.26.02:117][ 78]LogSlate: Window 'Message Log' being destroyed
 [2024.11.07-23.26.02:133][ 78]LogSlate: Window 'Message Log' being destroyed
+[2024.11.07-23.26.23:440][309]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Downloads/Zombie Turn.fbx)
+[2024.11.07-23.26.23:509][309]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Downloads/Zombie Turn.fbx
+[2024.11.07-23.26.24:061][309]LogFbx: FBX Scene Loaded Succesfully
+[2024.11.07-23.26.28:240][309]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.11.07-23.26.28:263][309]LogFbx: Valid bind pose for Pose (BindPose) - monsterforgame.002
+[2024.11.07-23.26.28:299][309]LogFbx: Triangulating skeletal mesh monsterforgame.002
+[2024.11.07-23.26.44:738][309]LogFbx: Bones digested - 33  Depth of hierarchy - 12
+[2024.11.07-23.26.59:012][309]LogSkeletalMesh: Display: /Game/monster/Animations/Zombie_Turn.Zombie_Turn ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2024.11.07-23.27.23:789][309]LogSkeletalMesh: Section 0: Material=0, 687208 triangles
+[2024.11.07-23.27.23:789][309]LogSkeletalMesh: Section 1: Material=1, 1824 triangles
+[2024.11.07-23.27.23:789][309]LogSkeletalMesh: Section 2: Material=2, 31744 triangles
+[2024.11.07-23.27.25:104][309]LogSkeletalMesh: Building Skeletal Mesh Zombie_Turn...
+[2024.11.07-23.27.25:132][309]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Zombie_Turn) ...
+[2024.11.07-23.27.35:118][309]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' exceeded budget of 10.000000s
+[2024.11.07-23.27.36:258][309]LogSkeletalMesh: Display: /Game/monster/Animations/Zombie_Turn.Zombie_Turn ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2024.11.07-23.27.59:866][309]LogSkeletalMesh: Built Skeletal Mesh [34.76s] /Game/monster/Animations/Zombie_Turn.Zombie_Turn
+[2024.11.07-23.28.00:066][309]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' complete in 34.951277s (24.951277s overbudget)
+[2024.11.07-23.28.00:319][309]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.07-23.28.00:319][309]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.07-23.28.00:339][309]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.11.07-23.28.00:339][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.07-23.28.00:386][309]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Zombie_Turn) ...
+[2024.11.07-23.28.01:052][309]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.11.07-23.28.01:995][318]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.07-23.28.10:332][625]LogSlate: Window 'Content Browser' being destroyed
+[2024.11.07-23.28.10:349][625]LogSlate: Window 'Content Browser' being destroyed
+[2024.11.07-23.28.11:620][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.11.07-23.28.11:625][666]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.022
+[2024.11.07-23.28.11:628][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/monster/Animations/Zombie_Attack] ([1] browsable assets)...
+[2024.11.07-23.28.11:683][666]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/monster/Animations/Zombie_Attack.Zombie_Attack]
+[2024.11.07-23.28.11:683][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/monster/Animations/Zombie_Attack]
+[2024.11.07-23.28.11:713][666]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.019170 seconds
+[2024.11.07-23.28.13:357][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/monster/Animations/Zombie_Attack_Auto1
+[2024.11.07-23.28.13:357][666]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Zombie_Attack_Auto1A068FB9C4A44AF85D42C5DAEEEFFD4A1.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Autosaves/Game/monster/Animations/Zombie_Attack_Auto1.uasset'
+[2024.11.07-23.28.13:362][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/monster/Animations/Zombie_Attack_Skeleton] ([1] browsable assets)...
+[2024.11.07-23.28.13:399][666]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/monster/Animations/Zombie_Attack_Skeleton.Zombie_Attack_Skeleton]
+[2024.11.07-23.28.13:399][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/monster/Animations/Zombie_Attack_Skeleton]
+[2024.11.07-23.28.13:403][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/monster/Animations/Zombie_Attack_Skeleton_Auto1
+[2024.11.07-23.28.13:403][666]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Zombie_Attack_Skeleton_Auto1766FB9F34D4C9571EB1959B9E8EC5937.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Autosaves/Game/monster/Animations/Zombie_Attack_Skeleton_Auto1.uasset'
+[2024.11.07-23.28.13:404][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/monster/Animations/Zombie_Attack_PhysicsAsset] ([1] browsable assets)...
+[2024.11.07-23.28.13:451][666]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/monster/Animations/Zombie_Attack_PhysicsAsset.Zombie_Attack_PhysicsAsset]
+[2024.11.07-23.28.13:451][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/monster/Animations/Zombie_Attack_PhysicsAsset]
+[2024.11.07-23.28.13:472][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/monster/Animations/Zombie_Attack_PhysicsAsset_Auto1
+[2024.11.07-23.28.13:472][666]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Zombie_Attack_PhysicsAsset_Auto1A40990204BD99CDD481D659D72B294CA.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Autosaves/Game/monster/Animations/Zombie_Attack_PhysicsAsset_Auto1.uasset'
+[2024.11.07-23.28.13:474][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/monster/Animations/Zombie_Stand_Up] ([1] browsable assets)...
+[2024.11.07-23.28.13:506][666]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/monster/Animations/Zombie_Stand_Up.Zombie_Stand_Up]
+[2024.11.07-23.28.13:506][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/monster/Animations/Zombie_Stand_Up]
+[2024.11.07-23.28.15:702][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/monster/Animations/Zombie_Stand_Up_Auto1
+[2024.11.07-23.28.15:702][666]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Zombie_Stand_Up_Auto1AF385FB948A1E1FBFC077CB93EBC84BF.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Autosaves/Game/monster/Animations/Zombie_Stand_Up_Auto1.uasset'
+[2024.11.07-23.28.15:705][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/monster/Animations/Zombie_Stand_Up_PhysicsAsset] ([1] browsable assets)...
+[2024.11.07-23.28.15:759][666]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/monster/Animations/Zombie_Stand_Up_PhysicsAsset.Zombie_Stand_Up_PhysicsAsset]
+[2024.11.07-23.28.15:759][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/monster/Animations/Zombie_Stand_Up_PhysicsAsset]
+[2024.11.07-23.28.15:774][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/monster/Animations/Zombie_Stand_Up_PhysicsAsset_Auto1
+[2024.11.07-23.28.15:774][666]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Zombie_Stand_Up_PhysicsAsset_Aut05989DA540576F8C88B8DFA58CB11C16.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Autosaves/Game/monster/Animations/Zombie_Stand_Up_PhysicsAsset_Auto1.uasset'
+[2024.11.07-23.28.15:776][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/monster/Animations/Thriller_Idle] ([1] browsable assets)...
+[2024.11.07-23.28.15:840][666]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/monster/Animations/Thriller_Idle.Thriller_Idle]
+[2024.11.07-23.28.15:841][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/monster/Animations/Thriller_Idle]
+[2024.11.07-23.28.18:033][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/monster/Animations/Thriller_Idle_Auto1
+[2024.11.07-23.28.18:033][666]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Thriller_Idle_Auto15D0337CC49F7360FA8F95F86643CF6CF.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Autosaves/Game/monster/Animations/Thriller_Idle_Auto1.uasset'
+[2024.11.07-23.28.18:035][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/monster/Animations/Thriller_Idle_PhysicsAsset] ([1] browsable assets)...
+[2024.11.07-23.28.18:114][666]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/monster/Animations/Thriller_Idle_PhysicsAsset.Thriller_Idle_PhysicsAsset]
+[2024.11.07-23.28.18:114][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/monster/Animations/Thriller_Idle_PhysicsAsset]
+[2024.11.07-23.28.18:131][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/monster/Animations/Thriller_Idle_PhysicsAsset_Auto1
+[2024.11.07-23.28.18:132][666]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Thriller_Idle_PhysicsAsset_Auto157D036534A8A29F0E8305FB29F8D597A.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Autosaves/Game/monster/Animations/Thriller_Idle_PhysicsAsset_Auto1.uasset'
+[2024.11.07-23.28.18:134][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/monster/Animations/Zombie_Turn] ([1] browsable assets)...
+[2024.11.07-23.28.18:206][666]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/monster/Animations/Zombie_Turn.Zombie_Turn]
+[2024.11.07-23.28.18:206][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/monster/Animations/Zombie_Turn]
+[2024.11.07-23.28.20:312][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/monster/Animations/Zombie_Turn_Auto1
+[2024.11.07-23.28.20:313][666]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Zombie_Turn_Auto19B5357F144C00DFCCE98FB9F7109DEDB.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Autosaves/Game/monster/Animations/Zombie_Turn_Auto1.uasset'
+[2024.11.07-23.28.20:314][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/monster/Animations/Zombie_Turn_PhysicsAsset] ([1] browsable assets)...
+[2024.11.07-23.28.20:378][666]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/monster/Animations/Zombie_Turn_PhysicsAsset.Zombie_Turn_PhysicsAsset]
+[2024.11.07-23.28.20:378][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/monster/Animations/Zombie_Turn_PhysicsAsset]
+[2024.11.07-23.28.20:397][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/monster/Animations/Zombie_Turn_PhysicsAsset_Auto1
+[2024.11.07-23.28.20:401][666]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Zombie_Turn_PhysicsAsset_Auto1139CC3524B4F2800520DC98DAB950ED3.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Autosaves/Game/monster/Animations/Zombie_Turn_PhysicsAsset_Auto1.uasset'
+[2024.11.07-23.28.20:405][666]LogFileHelpers: Auto-saving content packages took 8.780
+[2024.11.07-23.28.31:601][ 60]LogSlate: Window 'Message Log' being destroyed
+[2024.11.07-23.28.31:607][ 60]LogSlate: Window 'Message Log' being destroyed
+[2024.11.07-23.28.39:211][180]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Downloads/Zombie Crawl.fbx)
+[2024.11.07-23.28.39:276][180]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Downloads/Zombie Crawl.fbx
+[2024.11.07-23.28.39:848][180]LogFbx: FBX Scene Loaded Succesfully
+[2024.11.07-23.28.41:754][180]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.11.07-23.28.41:787][180]LogFbx: Valid bind pose for Pose (BindPose) - monsterforgame.002
+[2024.11.07-23.28.41:839][180]LogFbx: Triangulating skeletal mesh monsterforgame.002
+[2024.11.07-23.28.58:497][180]LogFbx: Bones digested - 33  Depth of hierarchy - 12
+[2024.11.07-23.29.14:051][180]LogSkeletalMesh: Display: /Game/monster/Animations/Zombie_Crawl.Zombie_Crawl ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2024.11.07-23.29.39:452][180]LogSkeletalMesh: Section 0: Material=0, 687208 triangles
+[2024.11.07-23.29.39:453][180]LogSkeletalMesh: Section 1: Material=1, 1824 triangles
+[2024.11.07-23.29.39:453][180]LogSkeletalMesh: Section 2: Material=2, 31744 triangles
+[2024.11.07-23.29.40:651][180]LogSkeletalMesh: Building Skeletal Mesh Zombie_Crawl...
+[2024.11.07-23.29.40:679][180]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Zombie_Crawl) ...
+[2024.11.07-23.29.50:664][180]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' exceeded budget of 10.000000s
+[2024.11.07-23.29.52:375][180]LogSkeletalMesh: Display: /Game/monster/Animations/Zombie_Crawl.Zombie_Crawl ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2024.11.07-23.30.16:393][180]LogSkeletalMesh: Built Skeletal Mesh [35.74s] /Game/monster/Animations/Zombie_Crawl.Zombie_Crawl
+[2024.11.07-23.30.16:615][180]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' complete in 35.955414s (25.955414s overbudget)
+[2024.11.07-23.30.16:870][180]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.07-23.30.16:871][180]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.07-23.30.16:887][180]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.11.07-23.30.16:887][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.07-23.30.16:942][180]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Zombie_Crawl) ...
+[2024.11.07-23.30.17:744][180]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.11.07-23.30.18:619][186]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.07-23.30.25:009][386]LogSlate: Window 'Content Browser' being destroyed
+[2024.11.07-23.30.25:029][386]LogSlate: Window 'Content Browser' being destroyed
+[2024.11.07-23.30.26:666][452]LogSlate: Window 'Message Log' being destroyed
+[2024.11.07-23.30.26:670][452]LogSlate: Window 'Message Log' being destroyed
+[2024.11.07-23.30.33:069][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.11.07-23.30.33:087][743]LogFileHelpers: InternalPromptForCheckoutAndSave started...
