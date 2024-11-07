@@ -1137,3 +1137,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 
 [2024.11.07-20.08.53:767][  1]Running Python start-up script 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.274061 secs
 [2024.11.07-20.08.53:899][  1]LogD3D12RHI: Cannot end block when stack is empty
+[2024.11.07-20.11.15:485][726]LogDerivedDataCache: C:/Users/david/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:47.970 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 24685 files in 26877 folders with total size 1698 MiB.
