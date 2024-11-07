@@ -1229,3 +1229,57 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.07-23.39.45:963][828]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/monster/Animations/Zombie_Run.Zombie_Run
 [2024.11.07-23.39.45:964][828]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/monster/Animations/Zombie_Run_PhysicsAsset.Zombie_Run_PhysicsAsset
 [2024.11.07-23.39.46:044][828]LogAutomationController: Ignoring very large delta of 2.28 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.07-23.41.47:232][415]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Downloads/Zombie Attack.fbx)
+[2024.11.07-23.41.47:294][415]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Downloads/Zombie Attack.fbx
+[2024.11.07-23.41.48:031][415]LogFbx: FBX Scene Loaded Succesfully
+[2024.11.07-23.41.50:995][415]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.11.07-23.41.51:019][415]LogFbx: Valid bind pose for Pose (BindPose) - monsterforgame.002
+[2024.11.07-23.41.51:059][415]LogFbx: Triangulating skeletal mesh monsterforgame.002
+[2024.11.07-23.42.09:730][415]LogFbx: Bones digested - 33  Depth of hierarchy - 12
+[2024.11.07-23.42.25:481][415]LogSkeletalMesh: Display: /Game/monster/Animations/Zombie_Attack.Zombie_Attack ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2024.11.07-23.42.51:416][415]LogSkeletalMesh: Section 0: Material=0, 687208 triangles
+[2024.11.07-23.42.51:416][415]LogSkeletalMesh: Section 1: Material=1, 1824 triangles
+[2024.11.07-23.42.51:416][415]LogSkeletalMesh: Section 2: Material=2, 31744 triangles
+[2024.11.07-23.42.52:683][415]LogSkeletalMesh: Building Skeletal Mesh Zombie_Attack...
+[2024.11.07-23.42.52:714][415]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Zombie_Attack) ...
+[2024.11.07-23.43.02:697][415]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' exceeded budget of 10.000000s
+[2024.11.07-23.43.04:751][415]LogSkeletalMesh: Display: /Game/monster/Animations/Zombie_Attack.Zombie_Attack ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2024.11.07-23.43.29:056][415]LogSkeletalMesh: Built Skeletal Mesh [36.37s] /Game/monster/Animations/Zombie_Attack.Zombie_Attack
+[2024.11.07-23.43.29:258][415]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' complete in 36.560656s (26.560656s overbudget)
+[2024.11.07-23.43.29:523][415]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.07-23.43.29:524][415]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.07-23.43.29:541][415]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.11.07-23.43.29:541][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.07-23.43.29:585][415]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Zombie_Attack) ...
+[2024.11.07-23.43.30:244][415]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.11.07-23.43.30:565][416]LogAutomationController: Ignoring very large delta of 106.44 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.07-23.43.31:221][419]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.07-23.43.34:157][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.11.07-23.43.34:159][436]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.016
+[2024.11.07-23.43.34:163][436]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/monster/Animations/Zombie_Attack] ([1] browsable assets)...
+[2024.11.07-23.43.34:232][436]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/monster/Animations/Zombie_Attack.Zombie_Attack]
+[2024.11.07-23.43.34:233][436]OBJ SavePackage: Finished generating thumbnails for package [/Game/monster/Animations/Zombie_Attack]
+[2024.11.07-23.43.35:855][436]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/monster/Animations/Zombie_Attack_Auto1
+[2024.11.07-23.43.35:855][436]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Zombie_Attack_Auto1E2266F6A436C11C31FE5868B99A781F4.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Autosaves/Game/monster/Animations/Zombie_Attack_Auto1.uasset'
+[2024.11.07-23.43.35:859][436]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/monster/Animations/Zombie_Attack_PhysicsAsset] ([1] browsable assets)...
+[2024.11.07-23.43.35:905][436]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/monster/Animations/Zombie_Attack_PhysicsAsset.Zombie_Attack_PhysicsAsset]
+[2024.11.07-23.43.35:905][436]OBJ SavePackage: Finished generating thumbnails for package [/Game/monster/Animations/Zombie_Attack_PhysicsAsset]
+[2024.11.07-23.43.35:918][436]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/monster/Animations/Zombie_Attack_PhysicsAsset_Auto1
+[2024.11.07-23.43.35:918][436]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Zombie_Attack_PhysicsAsset_Auto15DC9164E4E573122D319BCA6DC398CB3.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Autosaves/Game/monster/Animations/Zombie_Attack_PhysicsAsset_Auto1.uasset'
+[2024.11.07-23.43.35:921][436]LogFileHelpers: Auto-saving content packages took 1.761
+[2024.11.07-23.43.35:956][436]LogAutomationController: Ignoring very large delta of 2.49 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.07-23.43.39:487][516]LogSlate: Window 'Content Browser' being destroyed
+[2024.11.07-23.43.39:515][516]LogSlate: Window 'Content Browser' being destroyed
+[2024.11.07-23.43.40:406][537]LogSlate: Window 'Message Log' being destroyed
+[2024.11.07-23.43.40:433][537]LogSlate: Window 'Message Log' being destroyed
+[2024.11.07-23.43.44:816][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.11.07-23.43.44:826][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.07-23.43.47:119][727]LogSavePackage: Moving output files for package: /Game/monster/Animations/Zombie_Attack
+[2024.11.07-23.43.47:119][727]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Zombie_AttackB14E2BDD4487F96DD8EC2D8B9AD9F770.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/monster/Animations/Zombie_Attack.uasset'
+[2024.11.07-23.43.47:139][727]LogSavePackage: Moving output files for package: /Game/monster/Animations/Zombie_Attack_PhysicsAsset
+[2024.11.07-23.43.47:139][727]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Zombie_Attack_PhysicsAssetE86026AB451F4F72C96E008AF64462CD.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/monster/Animations/Zombie_Attack_PhysicsAsset.uasset'
+[2024.11.07-23.43.47:170][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.34 sec (total: 6.90 sec)
+[2024.11.07-23.43.47:174][727]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.07-23.43.47:175][727]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/monster/Animations/Zombie_Attack.Zombie_Attack
+[2024.11.07-23.43.47:175][727]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/monster/Animations/Zombie_Attack_PhysicsAsset.Zombie_Attack_PhysicsAsset
+[2024.11.07-23.43.47:244][728]LogAutomationController: Ignoring very large delta of 2.46 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
