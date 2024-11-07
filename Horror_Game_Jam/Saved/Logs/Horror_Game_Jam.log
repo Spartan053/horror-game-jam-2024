@@ -2882,3 +2882,593 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/window4_w_Roughness.window4_w_Roughness
 [2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/پارکینگ_DefaultMaterial_Metallic.پارکینگ_DefaultMaterial_Metallic
 [2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/پارکینگ_DefaultMaterial_Roughness.پارکینگ_DefaultMaterial_Roughness
+[2024.11.07-22.01.54:577][803]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageRoom/Shelves/model.model
+[2024.11.07-22.01.54:577][803]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageRoom/Shelves/model.model
+[2024.11.07-22.01.54:577][803]LogActorFactory: Actor Factory spawned StaticMesh /Game/StorageRoom/Shelves/model.model as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_2
+[2024.11.07-22.01.55:583][862]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageRoom/Shelves/model.model
+[2024.11.07-22.01.55:583][862]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageRoom/Shelves/model.model
+[2024.11.07-22.01.55:585][862]LogActorFactory: Actor Factory spawned StaticMesh /Game/StorageRoom/Shelves/model.model as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1180712989
+[2024.11.07-22.02.19:355][254]Cmd: EDIT COPY
+[2024.11.07-22.02.19:498][262]Cmd: EDIT PASTE
+[2024.11.07-22.02.27:466][724]LogSlate: Took 0.000571 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.11.07-22.02.34:401][110]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StorageRoom/Shelves/Wood.Wood
+[2024.11.07-22.02.34:406][110]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.07-22.02.34:406][110]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.07-22.02.34:598][110]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-22.02.34:598][110]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-22.02.34:598][110]MaterialEditorStats: Shader Count: 0
+[2024.11.07-22.02.34:608][110]LogViewport: Scene viewport resized to 374x421, mode Windowed.
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display: ================================================
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display: Total job queries 4,594, among them cache hits 4,378 (95.30%)
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display: Tracking 216 distinct input hashes that result in 119 distinct outputs (55.09%)
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display: RAM used: 5.43 MiB of 716.80 MiB budget. Usage: 0.76%
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display: Shaders Compiled: 171
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display: Jobs assigned 171, completed 171 (100%)
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display: Average time worker was idle: 34.57 s
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display: Time job spent in pending queue: average 0.25 s, longest 1.68 s
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display: Job execution time: average 0.55 s, max 1.69 s
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display: Job life time (pending + execution): average 0.79 s, max 2.10
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display: Shader code size: average 45.518 KiB, min 4.668 KiB, max 93.699 KiB
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.59 s
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display: Jobs were issued in 171 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display: Average processing rate: 8.73 jobs/sec
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display: Total thread time: 69.174 s
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display: Total thread preprocess time: 11.454 s
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display: Percentage time preprocessing: 16.56%
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display: Effective parallelization: 3.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    1 times, average 0.83 sec, max 0.83 sec, min 0.83 sec)
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    1 times, average 0.65 sec, max 0.65 sec, min 0.65 sec)
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.02% of total time (compiled   13 times, average 0.43 sec, max 0.78 sec, min 0.23 sec)
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.79% of total time (compiled   13 times, average 0.41 sec, max 0.78 sec, min 0.29 sec)
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.88% of total time (compiled    9 times, average 0.53 sec, max 1.10 sec, min 0.36 sec)
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.72% of total time (compiled    9 times, average 0.52 sec, max 1.01 sec, min 0.39 sec)
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 6.45% of total time (compiled    9 times, average 0.50 sec, max 1.09 sec, min 0.32 sec)
+[2024.11.07-22.02.34:657][111]LogShaderCompilers: Display: ================================================
+[2024.11.07-22.02.34:687][112]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.11.07-22.02.34:687][112]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.11.07-22.02.34:687][112]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.07-22.02.34:687][112]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-22.02.34:687][112]MaterialEditorStats: Shader Count: 4
+[2024.11.07-22.02.41:192][407]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-22.02.41:192][407]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-22.02.41:193][407]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.02.41:193][407]MaterialEditorStats: Shader Count: 0
+[2024.11.07-22.02.41:320][409]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.11.07-22.02.41:320][409]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-22.02.41:320][409]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.07-22.02.41:320][409]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-22.02.41:320][409]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.02.41:320][409]MaterialEditorStats: Shader Count: 4
+[2024.11.07-22.02.42:930][478]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-22.02.42:930][478]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-22.02.42:930][478]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.02.42:930][478]MaterialEditorStats: Shader Count: 0
+[2024.11.07-22.02.42:990][480]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.11.07-22.02.42:991][480]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-22.02.42:991][480]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.07-22.02.42:991][480]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-22.02.42:991][480]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.02.42:991][480]MaterialEditorStats: Shader Count: 4
+[2024.11.07-22.02.44:704][556]LogMaterialEditor: Saving and Compiling material Wood
+[2024.11.07-22.02.44:790][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.11.07-22.02.44:981][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.11.07-22.02.44:993][556]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.07-22.02.45:136][556]LogSavePackage: Moving output files for package: /Game/StorageRoom/Shelves/Wood
+[2024.11.07-22.02.45:137][556]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Wood51DAADC044A8334081FDE0AC9DD0558F.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/Shelves/Wood.uasset'
+[2024.11.07-22.02.45:147][556]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 17.2 sec)
+[2024.11.07-22.02.45:148][556]AssetCheck: New page: Asset Save: Wood
+[2024.11.07-22.02.45:148][556]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StorageRoom/Shelves/Wood.Wood
+[2024.11.07-22.02.45:157][556]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.11.07-22.02.45:157][556]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-22.02.45:157][556]MaterialEditorStats: MaxSampler: 244 instructions
+[2024.11.07-22.02.45:157][556]MaterialEditorStats: Texture samplers: 4/16
+[2024.11.07-22.02.45:157][556]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-22.02.45:157][556]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.02.45:157][556]MaterialEditorStats: Shader Count: 16
+[2024.11.07-22.02.53:521][917]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.11.07-22.02.53:521][917]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-22.02.53:521][917]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.07-22.02.53:521][917]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-22.02.53:521][917]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.02.53:521][917]MaterialEditorStats: Shader Count: 4
+[2024.11.07-22.02.55:916][ 33]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-22.02.55:916][ 33]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-22.02.55:916][ 33]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.02.55:916][ 33]MaterialEditorStats: Shader Count: 0
+[2024.11.07-22.02.56:042][ 35]MaterialEditorStats: Base pass shader: 197 instructions
+[2024.11.07-22.02.56:042][ 35]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-22.02.56:042][ 35]MaterialEditorStats: Texture samplers: 4/16
+[2024.11.07-22.02.56:042][ 35]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-22.02.56:042][ 35]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.02.56:042][ 35]MaterialEditorStats: Shader Count: 4
+[2024.11.07-22.03.10:041][718]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-22.03.10:041][718]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.11.07-22.03.10:041][718]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.03.10:041][718]MaterialEditorStats: Shader Count: 0
+[2024.11.07-22.03.10:548][734]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.11.07-22.03.10:548][734]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-22.03.10:548][734]MaterialEditorStats: Texture samplers: 5/16
+[2024.11.07-22.03.10:548][734]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.11.07-22.03.10:548][734]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.03.10:548][734]MaterialEditorStats: Shader Count: 3
+[2024.11.07-22.03.14:436][923]LogMaterialEditor: Saving and Compiling material Wood
+[2024.11.07-22.03.14:484][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.11.07-22.03.15:037][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.11.07-22.03.15:051][923]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.07-22.03.15:873][923]LogSavePackage: Moving output files for package: /Game/StorageRoom/Shelves/Wood
+[2024.11.07-22.03.15:873][923]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Wood24E0C7D04C1E16198A8D31A4CA3DB5C0.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/Shelves/Wood.uasset'
+[2024.11.07-22.03.15:883][923]LogFileHelpers: InternalPromptForCheckoutAndSave took 832 ms (total: 18.0 sec)
+[2024.11.07-22.03.15:884][923]AssetCheck: New page: Asset Save: Wood
+[2024.11.07-22.03.15:884][923]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StorageRoom/Shelves/Wood.Wood
+[2024.11.07-22.03.15:893][923]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.11.07-22.03.15:893][923]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-22.03.15:893][923]MaterialEditorStats: MaxSampler: 254 instructions
+[2024.11.07-22.03.15:893][923]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.07-22.03.15:893][923]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.11.07-22.03.15:893][923]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.03.15:893][923]MaterialEditorStats: Shader Count: 16
+[2024.11.07-22.03.16:612][952]LogSlate: Window 'Wood' being destroyed
+[2024.11.07-22.03.16:632][952]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.11.07-22.03.16:632][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.07-22.03.23:289][319]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2024.11.07-22.03.28:553][611]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StorageRoom/Shelves/RustyMetal.RustyMetal
+[2024.11.07-22.03.28:558][611]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.07-22.03.28:558][611]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.07-22.03.28:779][611]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-22.03.28:779][611]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-22.03.28:779][611]MaterialEditorStats: Shader Count: 0
+[2024.11.07-22.03.28:788][611]LogViewport: Scene viewport resized to 374x421, mode Windowed.
+[2024.11.07-22.03.28:892][613]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.11.07-22.03.28:892][613]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.11.07-22.03.28:892][613]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.07-22.03.28:892][613]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-22.03.28:892][613]MaterialEditorStats: Shader Count: 4
+[2024.11.07-22.03.30:353][678]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-22.03.30:353][678]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-22.03.30:353][678]MaterialEditorStats: Shader Count: 0
+[2024.11.07-22.03.30:411][680]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.11.07-22.03.30:411][680]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.11.07-22.03.30:411][680]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.07-22.03.30:411][680]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-22.03.30:411][680]MaterialEditorStats: Shader Count: 4
+[2024.11.07-22.03.35:614][931]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-22.03.35:614][931]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-22.03.35:614][931]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.03.35:615][931]MaterialEditorStats: Shader Count: 0
+[2024.11.07-22.03.35:766][933]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.11.07-22.03.35:766][933]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-22.03.35:766][933]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.07-22.03.35:766][933]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-22.03.35:766][933]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.03.35:766][933]MaterialEditorStats: Shader Count: 4
+[2024.11.07-22.03.44:470][350]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-22.03.44:470][350]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-22.03.44:470][350]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.03.44:470][350]MaterialEditorStats: Shader Count: 0
+[2024.11.07-22.03.44:609][353]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.11.07-22.03.44:609][353]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-22.03.44:609][353]MaterialEditorStats: Texture samplers: 4/16
+[2024.11.07-22.03.44:609][353]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-22.03.44:609][353]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.03.44:609][353]MaterialEditorStats: Shader Count: 4
+[2024.11.07-22.03.52:417][742]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-22.03.52:417][742]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.11.07-22.03.52:417][742]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.03.52:417][742]MaterialEditorStats: Shader Count: 0
+[2024.11.07-22.03.52:997][760]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-22.03.52:997][760]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.07-22.03.52:997][760]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.11.07-22.03.52:997][760]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.03.52:997][760]MaterialEditorStats: Shader Count: 2
+[2024.11.07-22.03.53:094][764]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.11.07-22.03.53:094][764]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-22.03.53:094][764]MaterialEditorStats: Texture samplers: 5/16
+[2024.11.07-22.03.53:094][764]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.11.07-22.03.53:094][764]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.03.53:094][764]MaterialEditorStats: Shader Count: 3
+[2024.11.07-22.03.53:993][805]LogMaterialEditor: Applying material RustyMetal
+[2024.11.07-22.03.54:076][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.11.07-22.03.54:610][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.11.07-22.03.55:504][842]LogMaterialEditor: Saving and Compiling material RustyMetal
+[2024.11.07-22.03.55:508][842]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.07-22.03.56:523][842]LogSavePackage: Moving output files for package: /Game/StorageRoom/Shelves/RustyMetal
+[2024.11.07-22.03.56:525][842]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/RustyMetal5CD1CFD74C5BE209C2AA00A343019BFB.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/Shelves/RustyMetal.uasset'
+[2024.11.07-22.03.56:533][842]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.02 sec (total: 19.1 sec)
+[2024.11.07-22.03.56:534][842]AssetCheck: New page: Asset Save: RustyMetal
+[2024.11.07-22.03.56:534][842]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StorageRoom/Shelves/RustyMetal.RustyMetal
+[2024.11.07-22.03.56:534][842]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.11.07-22.03.56:534][842]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-22.03.56:534][842]MaterialEditorStats: MaxSampler: 254 instructions
+[2024.11.07-22.03.56:534][842]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.07-22.03.56:534][842]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.11.07-22.03.56:534][842]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.03.56:534][842]MaterialEditorStats: Shader Count: 16
+[2024.11.07-22.03.57:005][864]LogSlate: Window 'RustyMetal' being destroyed
+[2024.11.07-22.03.57:030][864]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.11.07-22.03.57:030][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.07-22.04.06:625][406]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StorageRoom/Shelves/Default_Material.Default_Material
+[2024.11.07-22.04.06:629][406]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.07-22.04.06:629][406]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.07-22.04.06:829][406]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-22.04.06:829][406]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-22.04.06:829][406]MaterialEditorStats: Shader Count: 0
+[2024.11.07-22.04.06:839][406]LogViewport: Scene viewport resized to 374x421, mode Windowed.
+[2024.11.07-22.04.06:907][408]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.11.07-22.04.06:907][408]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.11.07-22.04.06:907][408]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.07-22.04.06:907][408]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-22.04.06:907][408]MaterialEditorStats: Shader Count: 4
+[2024.11.07-22.04.16:646][892]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-22.04.16:646][892]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-22.04.16:646][892]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.04.16:646][892]MaterialEditorStats: Shader Count: 0
+[2024.11.07-22.04.16:767][894]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.11.07-22.04.16:767][894]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-22.04.16:767][894]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.07-22.04.16:767][894]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-22.04.16:767][894]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.04.16:767][894]MaterialEditorStats: Shader Count: 4
+[2024.11.07-22.04.17:964][950]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-22.04.17:964][950]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-22.04.17:964][950]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.04.17:964][950]MaterialEditorStats: Shader Count: 0
+[2024.11.07-22.04.18:023][952]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.11.07-22.04.18:023][952]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-22.04.18:023][952]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.07-22.04.18:023][952]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-22.04.18:023][952]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.04.18:023][952]MaterialEditorStats: Shader Count: 4
+[2024.11.07-22.04.29:653][577]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-22.04.29:653][577]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-22.04.29:653][577]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.04.29:653][577]MaterialEditorStats: Shader Count: 0
+[2024.11.07-22.04.29:775][580]MaterialEditorStats: Base pass shader: 198 instructions
+[2024.11.07-22.04.29:775][580]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-22.04.29:775][580]MaterialEditorStats: Texture samplers: 4/16
+[2024.11.07-22.04.29:775][580]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-22.04.29:775][580]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.04.29:775][580]MaterialEditorStats: Shader Count: 4
+[2024.11.07-22.04.36:327][899]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-22.04.36:327][899]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.11.07-22.04.36:327][899]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.04.36:327][899]MaterialEditorStats: Shader Count: 0
+[2024.11.07-22.04.36:931][919]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.07-22.04.36:931][919]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.11.07-22.04.36:931][919]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.04.36:931][919]MaterialEditorStats: Shader Count: 1
+[2024.11.07-22.04.37:140][928]MaterialEditorStats: Base pass shader: 206 instructions
+[2024.11.07-22.04.37:140][928]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-22.04.37:140][928]MaterialEditorStats: Texture samplers: 5/16
+[2024.11.07-22.04.37:140][928]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.11.07-22.04.37:140][928]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.04.37:140][928]MaterialEditorStats: Shader Count: 4
+[2024.11.07-22.04.47:721][463]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-22.04.47:721][463]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.11.07-22.04.47:721][463]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.04.47:721][463]MaterialEditorStats: Shader Count: 0
+[2024.11.07-22.04.48:115][477]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.07-22.04.48:115][477]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.11.07-22.04.48:115][477]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.04.48:115][477]MaterialEditorStats: Shader Count: 1
+[2024.11.07-22.04.48:303][485]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.11.07-22.04.48:303][485]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-22.04.48:303][485]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.07-22.04.48:303][485]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.11.07-22.04.48:303][485]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.04.48:303][485]MaterialEditorStats: Shader Count: 4
+[2024.11.07-22.04.49:197][531]LogMaterialEditor: Saving and Compiling material Default_Material
+[2024.11.07-22.04.49:277][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.11.07-22.04.49:818][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.11.07-22.04.49:828][531]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.07-22.04.50:842][531]LogSavePackage: Moving output files for package: /Game/StorageRoom/Shelves/Default_Material
+[2024.11.07-22.04.50:844][531]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Default_Material84FA69D9497C7F9378588C85224B78BC.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/Shelves/Default_Material.uasset'
+[2024.11.07-22.04.50:853][531]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.02 sec (total: 20.1 sec)
+[2024.11.07-22.04.50:854][531]AssetCheck: New page: Asset Save: Default_Material
+[2024.11.07-22.04.50:854][531]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StorageRoom/Shelves/Default_Material.Default_Material
+[2024.11.07-22.04.50:859][531]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.11.07-22.04.50:860][531]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-22.04.50:860][531]MaterialEditorStats: MaxSampler: 258 instructions
+[2024.11.07-22.04.50:860][531]MaterialEditorStats: Texture samplers: 7/16
+[2024.11.07-22.04.50:860][531]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.11.07-22.04.50:860][531]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-22.04.50:860][531]MaterialEditorStats: Shader Count: 16
+[2024.11.07-22.04.51:476][559]LogSlate: Window 'Default_Material' being destroyed
+[2024.11.07-22.04.51:497][559]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.11.07-22.04.51:497][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.07-22.05.09:728][621]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.07-22.05.09:805][621]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/SH/IO0BZLAH4KIV3NFK3WOT3B
+[2024.11.07-22.05.09:805][621]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/IO0BZLAH4KIV3NFK3WOT3B7E8B2B6D42E1747BF33C3CB253B346E6.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/SH/IO0BZLAH4KIV3NFK3WOT3B.uasset'
+[2024.11.07-22.05.09:807][621]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/5P/YVTGU6JF3IY2X80TT2NKIL
+[2024.11.07-22.05.09:807][621]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/YVTGU6JF3IY2X80TT2NKILBDB5DF4D43D85793BCB4829BD445DE6C.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/5P/YVTGU6JF3IY2X80TT2NKIL.uasset'
+[2024.11.07-22.05.09:818][621]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 20.2 sec)
+[2024.11.07-22.05.09:820][621]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.07-22.05.09:820][621]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1204628990
+[2024.11.07-22.05.09:820][621]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1180712989
+[2024.11.07-22.05.28:267][647]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageRoom/Cardboard/Object_4.Object_4
+[2024.11.07-22.05.28:267][647]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageRoom/Cardboard/Object_4.Object_4
+[2024.11.07-22.05.28:268][647]LogActorFactory: Actor Factory spawned StaticMesh /Game/StorageRoom/Cardboard/Object_4.Object_4 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_3
+[2024.11.07-22.05.29:743][734]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageRoom/Cardboard/Object_4.Object_4
+[2024.11.07-22.05.29:743][734]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageRoom/Cardboard/Object_4.Object_4
+[2024.11.07-22.05.29:745][734]LogActorFactory: Actor Factory spawned StaticMesh /Game/StorageRoom/Cardboard/Object_4.Object_4 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1394872991
+[2024.11.07-22.05.42:798][483]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageRoom/Cardboard/Object_5.Object_5
+[2024.11.07-22.05.42:798][483]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageRoom/Cardboard/Object_5.Object_5
+[2024.11.07-22.05.42:799][483]LogActorFactory: Actor Factory spawned StaticMesh /Game/StorageRoom/Cardboard/Object_5.Object_5 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_5
+[2024.11.07-22.05.45:094][619]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageRoom/Cardboard/Object_5.Object_5
+[2024.11.07-22.05.45:094][619]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageRoom/Cardboard/Object_5.Object_5
+[2024.11.07-22.05.45:095][619]LogActorFactory: Actor Factory spawned StaticMesh /Game/StorageRoom/Cardboard/Object_5.Object_5 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1410223992
+[2024.11.07-22.05.49:868][887]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageRoom/Cardboard/Object_10.Object_10
+[2024.11.07-22.05.49:868][887]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageRoom/Cardboard/Object_10.Object_10
+[2024.11.07-22.05.49:869][887]LogActorFactory: Actor Factory spawned StaticMesh /Game/StorageRoom/Cardboard/Object_10.Object_10 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_6
+[2024.11.07-22.05.51:540][986]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageRoom/Cardboard/Object_10.Object_10
+[2024.11.07-22.05.51:540][986]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageRoom/Cardboard/Object_10.Object_10
+[2024.11.07-22.05.51:542][986]LogActorFactory: Actor Factory spawned StaticMesh /Game/StorageRoom/Cardboard/Object_10.Object_10 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1416669993
+[2024.11.07-22.06.00:229][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageRoom/Cardboard/Object_12.Object_12
+[2024.11.07-22.06.00:229][482]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageRoom/Cardboard/Object_12.Object_12
+[2024.11.07-22.06.00:229][482]LogActorFactory: Actor Factory spawned StaticMesh /Game/StorageRoom/Cardboard/Object_12.Object_12 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_7
+[2024.11.07-22.06.01:617][564]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageRoom/Cardboard/Object_12.Object_12
+[2024.11.07-22.06.01:617][564]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageRoom/Cardboard/Object_12.Object_12
+[2024.11.07-22.06.01:619][564]LogActorFactory: Actor Factory spawned StaticMesh /Game/StorageRoom/Cardboard/Object_12.Object_12 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1426746994
+[2024.11.07-22.06.07:580][882]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageRoom/Cardboard/Object_14.Object_14
+[2024.11.07-22.06.07:580][882]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageRoom/Cardboard/Object_14.Object_14
+[2024.11.07-22.06.07:580][882]LogActorFactory: Actor Factory spawned StaticMesh /Game/StorageRoom/Cardboard/Object_14.Object_14 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_8
+[2024.11.07-22.06.10:619][ 63]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageRoom/Cardboard/Object_14.Object_14
+[2024.11.07-22.06.10:619][ 63]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageRoom/Cardboard/Object_14.Object_14
+[2024.11.07-22.06.10:621][ 63]LogActorFactory: Actor Factory spawned StaticMesh /Game/StorageRoom/Cardboard/Object_14.Object_14 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1435748995
+[2024.11.07-22.06.17:566][463]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageRoom/Cardboard/Object_15.Object_15
+[2024.11.07-22.06.17:566][463]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageRoom/Cardboard/Object_15.Object_15
+[2024.11.07-22.06.17:568][463]LogActorFactory: Actor Factory spawned StaticMesh /Game/StorageRoom/Cardboard/Object_15.Object_15 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_9
+[2024.11.07-22.06.20:203][620]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageRoom/Cardboard/Object_15.Object_15
+[2024.11.07-22.06.20:203][620]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StorageRoom/Cardboard/Object_15.Object_15
+[2024.11.07-22.06.20:206][620]LogActorFactory: Actor Factory spawned StaticMesh /Game/StorageRoom/Cardboard/Object_15.Object_15 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1445332996
+[2024.11.07-22.06.26:523][992]Cmd: EDIT COPY
+[2024.11.07-22.06.26:806][  9]Cmd: EDIT PASTE
+[2024.11.07-22.06.38:183][677]Cmd: EDIT COPY
+[2024.11.07-22.06.38:444][692]Cmd: EDIT PASTE
+[2024.11.07-22.07.01:687][ 70]Cmd: EDIT COPY
+[2024.11.07-22.07.01:871][ 81]Cmd: EDIT PASTE
+[2024.11.07-22.07.08:513][474]Cmd: EDIT COPY
+[2024.11.07-22.07.08:696][485]Cmd: EDIT PASTE
+[2024.11.07-22.07.16:812][958]Cmd: EDIT COPY
+[2024.11.07-22.07.17:004][969]Cmd: EDIT PASTE
+[2024.11.07-22.07.27:472][588]Cmd: EDIT COPY
+[2024.11.07-22.07.27:655][599]Cmd: EDIT PASTE
+[2024.11.07-22.07.34:590][  7]Cmd: EDIT COPY
+[2024.11.07-22.07.34:767][ 17]Cmd: EDIT PASTE
+[2024.11.07-22.07.39:712][303]Cmd: EDIT COPY
+[2024.11.07-22.07.39:879][313]Cmd: EDIT PASTE
+[2024.11.07-22.07.52:845][ 67]Cmd: EDIT COPY
+[2024.11.07-22.07.53:087][ 81]Cmd: EDIT PASTE
+[2024.11.07-22.08.03:174][658]Cmd: EDIT COPY
+[2024.11.07-22.08.03:174][658]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2024.11.07-22.08.03:323][667]Cmd: EDIT PASTE
+[2024.11.07-22.08.16:684][447]Cmd: EDIT COPY
+[2024.11.07-22.08.16:817][454]Cmd: EDIT PASTE
+[2024.11.07-22.08.34:998][503]Cmd: EDIT COPY
+[2024.11.07-22.08.35:165][513]Cmd: EDIT PASTE
+[2024.11.07-22.08.58:761][907]Cmd: EDIT COPY
+[2024.11.07-22.08.58:945][918]Cmd: EDIT PASTE
+[2024.11.07-22.09.12:666][728]Cmd: EDIT COPY
+[2024.11.07-22.09.12:825][737]Cmd: EDIT PASTE
+[2024.11.07-22.09.16:731][967]Cmd: EDIT COPY
+[2024.11.07-22.09.16:881][976]Cmd: EDIT PASTE
+[2024.11.07-22.09.35:135][ 51]Cmd: EDIT COPY
+[2024.11.07-22.09.35:319][ 62]Cmd: EDIT PASTE
+[2024.11.07-22.09.48:458][802]Cmd: EDIT COPY
+[2024.11.07-22.09.48:625][812]Cmd: EDIT PASTE
+[2024.11.07-22.10.06:308][848]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.07-22.10.06:386][848]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/WP/BP0NOO96UN3Q816BURWVB1
+[2024.11.07-22.10.06:386][848]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/BP0NOO96UN3Q816BURWVB1B238346A4C0EECD2C048C4BAA3CC9AC9.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/WP/BP0NOO96UN3Q816BURWVB1.uasset'
+[2024.11.07-22.10.06:389][848]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/RA/EPV4K2DGLQPVO12Z89V3X7
+[2024.11.07-22.10.06:389][848]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/EPV4K2DGLQPVO12Z89V3X733CB5C0C48A90CF76F307BA6AC7872E9.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/RA/EPV4K2DGLQPVO12Z89V3X7.uasset'
+[2024.11.07-22.10.06:391][848]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/4K/BG3VP9K3P8G6KJXZMAAUWV
+[2024.11.07-22.10.06:391][848]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/BG3VP9K3P8G6KJXZMAAUWV6ADE87CE45D90403BE872586EE961FB9.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/4K/BG3VP9K3P8G6KJXZMAAUWV.uasset'
+[2024.11.07-22.10.06:394][848]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/6H/TYNN3T6UH1MS7VJFMFR3RD
+[2024.11.07-22.10.06:394][848]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/TYNN3T6UH1MS7VJFMFR3RD0886F386493C395127D4DA9304D8C289.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/6H/TYNN3T6UH1MS7VJFMFR3RD.uasset'
+[2024.11.07-22.10.06:396][848]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/US/0KZF6ORA6VN2F2HSVKCGU7
+[2024.11.07-22.10.06:396][848]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/0KZF6ORA6VN2F2HSVKCGU75FF72BF848B306EB8481C8925FD69CE5.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/US/0KZF6ORA6VN2F2HSVKCGU7.uasset'
+[2024.11.07-22.10.06:399][848]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/17/TOOM2YZPK7UJ6TPPX5X9V5
+[2024.11.07-22.10.06:399][848]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/TOOM2YZPK7UJ6TPPX5X9V55BD8C63A488DE7CB548C48A8B0D07247.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/17/TOOM2YZPK7UJ6TPPX5X9V5.uasset'
+[2024.11.07-22.10.06:401][848]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/6T/U6TEJH58A7P3NY5GJGTW5O
+[2024.11.07-22.10.06:401][848]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/U6TEJH58A7P3NY5GJGTW5OAF1F24D94CB8AC268F8A66804315ED72.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/6T/U6TEJH58A7P3NY5GJGTW5O.uasset'
+[2024.11.07-22.10.06:404][848]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZI/9GQQZOPU2HVUQNQNHH47L9
+[2024.11.07-22.10.06:404][848]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/9GQQZOPU2HVUQNQNHH47L9652EC50E49ED79F5FEB7C2B6B0E5547C.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZI/9GQQZOPU2HVUQNQNHH47L9.uasset'
+[2024.11.07-22.10.06:405][848]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/HE/0J7XF2AQRSSDVEHQ1ZQ3M6
+[2024.11.07-22.10.06:405][848]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/0J7XF2AQRSSDVEHQ1ZQ3M6FA20E922468B4C8FAE543EACD99D1E28.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/HE/0J7XF2AQRSSDVEHQ1ZQ3M6.uasset'
+[2024.11.07-22.10.06:407][848]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZK/93U0EWJCEFF1NZKJVQQIVZ
+[2024.11.07-22.10.06:407][848]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/93U0EWJCEFF1NZKJVQQIVZ4F379A4240F3141F43394A9E1774465F.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZK/93U0EWJCEFF1NZKJVQQIVZ.uasset'
+[2024.11.07-22.10.06:410][848]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VW/J9T4JJ6RTXU8FEZZY7CE6A
+[2024.11.07-22.10.06:410][848]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/J9T4JJ6RTXU8FEZZY7CE6A6A4B4B464F2C6E5D9DDE33AABB618AF3.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VW/J9T4JJ6RTXU8FEZZY7CE6A.uasset'
+[2024.11.07-22.10.06:412][848]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/W4/C5EB37VEOUKSAU3VJWTK21
+[2024.11.07-22.10.06:412][848]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/C5EB37VEOUKSAU3VJWTK21E48FC18D4BB77709E3A105891C80065B.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/W4/C5EB37VEOUKSAU3VJWTK21.uasset'
+[2024.11.07-22.10.06:414][848]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/56/MIQIYM6P8FCF431AT6UWCY
+[2024.11.07-22.10.06:414][848]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/MIQIYM6P8FCF431AT6UWCYD04966DC4C49B2E413DFEBA1B7F6FFAB.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/56/MIQIYM6P8FCF431AT6UWCY.uasset'
+[2024.11.07-22.10.06:417][848]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/DV/FY0LEOYX54PAQVJ2O1MU49
+[2024.11.07-22.10.06:417][848]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/FY0LEOYX54PAQVJ2O1MU49A4A6F1194FDC4E2648C99880E2BA4555.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/DV/FY0LEOYX54PAQVJ2O1MU49.uasset'
+[2024.11.07-22.10.06:419][848]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/8E/M1X22DR24GU79SU4FQ5C6K
+[2024.11.07-22.10.06:419][848]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/M1X22DR24GU79SU4FQ5C6K4CE14F154966A979EC25D8ABC6A289EF.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/8E/M1X22DR24GU79SU4FQ5C6K.uasset'
+[2024.11.07-22.10.06:421][848]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/GD/79LF4JOZ9CM9ERT7SVCVOA
+[2024.11.07-22.10.06:421][848]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/79LF4JOZ9CM9ERT7SVCVOAEB16DC574DDA407B7BB677BEA29CFAB5.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/GD/79LF4JOZ9CM9ERT7SVCVOA.uasset'
+[2024.11.07-22.10.06:424][848]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/K4/3N5QVL7DI42R4QSQLTTU9Y
+[2024.11.07-22.10.06:424][848]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/3N5QVL7DI42R4QSQLTTU9Y7DFFD63843CAB3B1774CC49E8D9630B3.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/K4/3N5QVL7DI42R4QSQLTTU9Y.uasset'
+[2024.11.07-22.10.06:426][848]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/TW/OZ6DFOIB95R6JTA2XKLP1I
+[2024.11.07-22.10.06:426][848]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/OZ6DFOIB95R6JTA2XKLP1I2CF7FA5542999AD346449381D9356EF7.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/TW/OZ6DFOIB95R6JTA2XKLP1I.uasset'
+[2024.11.07-22.10.06:429][848]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/V4/9LFQUCCRGI72S5I4M3NVNM
+[2024.11.07-22.10.06:429][848]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/9LFQUCCRGI72S5I4M3NVNME7638F944B0453B8B4AC66A34222A908.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/V4/9LFQUCCRGI72S5I4M3NVNM.uasset'
+[2024.11.07-22.10.06:431][848]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L3/HMG7COBEWD64TNSYNTLVJ5
+[2024.11.07-22.10.06:431][848]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/HMG7COBEWD64TNSYNTLVJ5C2682D82438DA0B7F82E169D2EB582A6.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L3/HMG7COBEWD64TNSYNTLVJ5.uasset'
+[2024.11.07-22.10.06:434][848]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/6T/DEOJPS794KFGIQYBR790TP
+[2024.11.07-22.10.06:434][848]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/DEOJPS794KFGIQYBR790TP8A83E91D47B2ACA92F332BA562EB3E9B.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/6T/DEOJPS794KFGIQYBR790TP.uasset'
+[2024.11.07-22.10.06:437][848]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/4Z/X8A4IZE47JLXMQN2GPMXUJ
+[2024.11.07-22.10.06:437][848]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/X8A4IZE47JLXMQN2GPMXUJCAE86D15416BAD9B9BF392BFC6194344.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/4Z/X8A4IZE47JLXMQN2GPMXUJ.uasset'
+[2024.11.07-22.10.06:439][848]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/FY/0IU39C88Y4GBAESC6VLANZ
+[2024.11.07-22.10.06:439][848]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/0IU39C88Y4GBAESC6VLANZ1F1D3DD54F19FF81FEA99A8947F1E8F7.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/FY/0IU39C88Y4GBAESC6VLANZ.uasset'
+[2024.11.07-22.10.06:449][848]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 20.3 sec)
+[2024.11.07-22.10.06:455][848]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.07-22.10.06:455][848]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1394872991
+[2024.11.07-22.10.06:455][848]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1410223992
+[2024.11.07-22.10.06:455][848]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1416669993
+[2024.11.07-22.10.06:455][848]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1426746994
+[2024.11.07-22.10.06:455][848]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1435748995
+[2024.11.07-22.10.06:455][848]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1445332996
+[2024.11.07-22.10.06:456][848]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1451936997
+[2024.11.07-22.10.06:456][848]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1463573998
+[2024.11.07-22.10.06:456][848]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1487000999
+[2024.11.07-22.10.06:456][848]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1493826000
+[2024.11.07-22.10.06:456][848]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1502134001
+[2024.11.07-22.10.06:456][848]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1512785002
+[2024.11.07-22.10.06:456][848]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1519897003
+[2024.11.07-22.10.06:456][848]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1525009004
+[2024.11.07-22.10.06:456][848]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1538218005
+[2024.11.07-22.10.06:456][848]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1548454006
+[2024.11.07-22.10.06:456][848]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1561948007
+[2024.11.07-22.10.06:456][848]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1580295008
+[2024.11.07-22.10.06:456][848]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1604075009
+[2024.11.07-22.10.06:456][848]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1617955010
+[2024.11.07-22.10.06:456][848]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1622012011
+[2024.11.07-22.10.06:456][848]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1640449012
+[2024.11.07-22.10.06:456][848]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1653755013
+[2024.11.07-22.10.12:243][169]Cmd: EDIT COPY
+[2024.11.07-22.10.12:410][179]Cmd: EDIT PASTE
+[2024.11.07-22.10.28:239][ 96]Cmd: EDIT COPY
+[2024.11.07-22.10.28:450][108]Cmd: EDIT PASTE
+[2024.11.07-22.10.35:249][490]Cmd: EDIT COPY
+[2024.11.07-22.10.35:415][500]Cmd: EDIT PASTE
+[2024.11.07-22.10.42:243][904]Cmd: EDIT COPY
+[2024.11.07-22.10.42:476][918]Cmd: EDIT PASTE
+[2024.11.07-22.10.53:792][577]Cmd: EDIT COPY
+[2024.11.07-22.10.53:934][585]Cmd: EDIT PASTE
+[2024.11.07-22.11.00:486][972]Cmd: EDIT COPY
+[2024.11.07-22.11.00:637][981]Cmd: EDIT PASTE
+[2024.11.07-22.11.19:019][ 56]Cmd: EDIT COPY
+[2024.11.07-22.11.19:152][ 64]Cmd: EDIT PASTE
+[2024.11.07-22.11.39:013][218]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.07-22.11.39:086][218]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/MP/BSHF56XMJBO936LAVUOBZ3
+[2024.11.07-22.11.39:086][218]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/BSHF56XMJBO936LAVUOBZ300FCC75345144B9622B2A9B698640009.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/MP/BSHF56XMJBO936LAVUOBZ3.uasset'
+[2024.11.07-22.11.39:089][218]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/9Q/X361CQVP56Y4BLR1YNSYR1
+[2024.11.07-22.11.39:089][218]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/X361CQVP56Y4BLR1YNSYR1B56CAB524000B8C778CF9DA3CB0495C8.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/9Q/X361CQVP56Y4BLR1YNSYR1.uasset'
+[2024.11.07-22.11.39:092][218]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/FY/2XHGYU80L59PJQD7STOB61
+[2024.11.07-22.11.39:092][218]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/2XHGYU80L59PJQD7STOB6145370BE04926ABB91F8978A6BD5321D7.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/FY/2XHGYU80L59PJQD7STOB61.uasset'
+[2024.11.07-22.11.39:095][218]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/WT/Y59PFLEEKYW9H8PWS0JNA0
+[2024.11.07-22.11.39:095][218]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Y59PFLEEKYW9H8PWS0JNA045130A21421BFB402D86019E4136BA7F.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/WT/Y59PFLEEKYW9H8PWS0JNA0.uasset'
+[2024.11.07-22.11.39:097][218]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/IQ/SG1W6NCLQUNASMAK6Z4GXD
+[2024.11.07-22.11.39:097][218]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/SG1W6NCLQUNASMAK6Z4GXDBA1C17404C7600D7963800BAE8701448.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/IQ/SG1W6NCLQUNASMAK6Z4GXD.uasset'
+[2024.11.07-22.11.39:099][218]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/A9/GG3QD4O7VKQX92XCG0UD4D
+[2024.11.07-22.11.39:099][218]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/GG3QD4O7VKQX92XCG0UD4D7D8292DF4E27E82CF4EEDA9D6BF4938F.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/A9/GG3QD4O7VKQX92XCG0UD4D.uasset'
+[2024.11.07-22.11.39:102][218]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/RW/6WQJP7UI3Y7S02R33BTHRJ
+[2024.11.07-22.11.39:102][218]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/6WQJP7UI3Y7S02R33BTHRJ82DF8A0A4428D9E20E51A6B4F4ACC83A.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/RW/6WQJP7UI3Y7S02R33BTHRJ.uasset'
+[2024.11.07-22.11.39:110][218]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 20.4 sec)
+[2024.11.07-22.11.39:113][218]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.07-22.11.39:113][218]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1677541014
+[2024.11.07-22.11.39:113][218]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1693581015
+[2024.11.07-22.11.39:113][218]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1700545016
+[2024.11.07-22.11.39:113][218]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1707607017
+[2024.11.07-22.11.39:113][218]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1719065018
+[2024.11.07-22.11.39:113][218]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1725767019
+[2024.11.07-22.11.39:113][218]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1744282020
+[2024.11.07-22.12.13:212][100]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.11.07-22.12.18:040][342]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.07-22.12.18:121][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/SH/IO0BZLAH4KIV3NFK3WOT3B
+[2024.11.07-22.12.18:122][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/IO0BZLAH4KIV3NFK3WOT3B5AF163EB4FCFB1D428F4F6999B6E8C44.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/SH/IO0BZLAH4KIV3NFK3WOT3B.uasset'
+[2024.11.07-22.12.18:125][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/5P/YVTGU6JF3IY2X80TT2NKIL
+[2024.11.07-22.12.18:126][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/YVTGU6JF3IY2X80TT2NKILCEAD613E4690B8AB2144D895482EFA2A.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/5P/YVTGU6JF3IY2X80TT2NKIL.uasset'
+[2024.11.07-22.12.18:129][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/WP/BP0NOO96UN3Q816BURWVB1
+[2024.11.07-22.12.18:130][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/BP0NOO96UN3Q816BURWVB108FE15F54C901872EFA1ECA216774CE7.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/WP/BP0NOO96UN3Q816BURWVB1.uasset'
+[2024.11.07-22.12.18:132][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/RA/EPV4K2DGLQPVO12Z89V3X7
+[2024.11.07-22.12.18:133][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/EPV4K2DGLQPVO12Z89V3X7A80BF0C74DC4FBA2A6DD4E9F08BE13EF.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/RA/EPV4K2DGLQPVO12Z89V3X7.uasset'
+[2024.11.07-22.12.18:136][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/6H/TYNN3T6UH1MS7VJFMFR3RD
+[2024.11.07-22.12.18:138][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/TYNN3T6UH1MS7VJFMFR3RDD19AF7074EE9FC8F66681695E0758B3F.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/6H/TYNN3T6UH1MS7VJFMFR3RD.uasset'
+[2024.11.07-22.12.18:140][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/US/0KZF6ORA6VN2F2HSVKCGU7
+[2024.11.07-22.12.18:142][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/0KZF6ORA6VN2F2HSVKCGU7E55CAD964CCF360A8D000FB43DA3E828.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/US/0KZF6ORA6VN2F2HSVKCGU7.uasset'
+[2024.11.07-22.12.18:144][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/17/TOOM2YZPK7UJ6TPPX5X9V5
+[2024.11.07-22.12.18:146][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/TOOM2YZPK7UJ6TPPX5X9V5300725BC4622724C639813B098CDD209.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/17/TOOM2YZPK7UJ6TPPX5X9V5.uasset'
+[2024.11.07-22.12.18:149][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/6T/U6TEJH58A7P3NY5GJGTW5O
+[2024.11.07-22.12.18:150][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/U6TEJH58A7P3NY5GJGTW5OE8F05179488415775A3831B305825DFF.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/6T/U6TEJH58A7P3NY5GJGTW5O.uasset'
+[2024.11.07-22.12.18:153][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZI/9GQQZOPU2HVUQNQNHH47L9
+[2024.11.07-22.12.18:154][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/9GQQZOPU2HVUQNQNHH47L9A1E0CBEE451A79004AC49E99F1B4BBA9.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZI/9GQQZOPU2HVUQNQNHH47L9.uasset'
+[2024.11.07-22.12.18:157][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/HE/0J7XF2AQRSSDVEHQ1ZQ3M6
+[2024.11.07-22.12.18:158][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/0J7XF2AQRSSDVEHQ1ZQ3M6585769B1451C8CA54F849398314E90E2.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/HE/0J7XF2AQRSSDVEHQ1ZQ3M6.uasset'
+[2024.11.07-22.12.18:160][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZK/93U0EWJCEFF1NZKJVQQIVZ
+[2024.11.07-22.12.18:161][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/93U0EWJCEFF1NZKJVQQIVZ483EE45A4B54400732F3DA89EEF236A6.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZK/93U0EWJCEFF1NZKJVQQIVZ.uasset'
+[2024.11.07-22.12.18:164][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VW/J9T4JJ6RTXU8FEZZY7CE6A
+[2024.11.07-22.12.18:166][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/J9T4JJ6RTXU8FEZZY7CE6AAB499ADA402C8947CE9D0D9BA0EFA8A2.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VW/J9T4JJ6RTXU8FEZZY7CE6A.uasset'
+[2024.11.07-22.12.18:168][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/W4/C5EB37VEOUKSAU3VJWTK21
+[2024.11.07-22.12.18:169][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/C5EB37VEOUKSAU3VJWTK21C6B29B144FB056BDEEB3F89DA090B18C.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/W4/C5EB37VEOUKSAU3VJWTK21.uasset'
+[2024.11.07-22.12.18:172][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/56/MIQIYM6P8FCF431AT6UWCY
+[2024.11.07-22.12.18:173][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/MIQIYM6P8FCF431AT6UWCY426801F849CAFA40B518EF9E086F87CD.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/56/MIQIYM6P8FCF431AT6UWCY.uasset'
+[2024.11.07-22.12.18:175][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/DV/FY0LEOYX54PAQVJ2O1MU49
+[2024.11.07-22.12.18:176][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/FY0LEOYX54PAQVJ2O1MU49A0CEBD494E6CA082FB8BB8BF52EAF343.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/DV/FY0LEOYX54PAQVJ2O1MU49.uasset'
+[2024.11.07-22.12.18:179][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/8E/M1X22DR24GU79SU4FQ5C6K
+[2024.11.07-22.12.18:180][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/M1X22DR24GU79SU4FQ5C6KC2D683D84F1B5B7355D50DBF58710A87.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/8E/M1X22DR24GU79SU4FQ5C6K.uasset'
+[2024.11.07-22.12.18:183][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/GD/79LF4JOZ9CM9ERT7SVCVOA
+[2024.11.07-22.12.18:183][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/79LF4JOZ9CM9ERT7SVCVOA1CFBD6E14FE2374384EA7BB1063C2F60.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/GD/79LF4JOZ9CM9ERT7SVCVOA.uasset'
+[2024.11.07-22.12.18:187][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/K4/3N5QVL7DI42R4QSQLTTU9Y
+[2024.11.07-22.12.18:188][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/3N5QVL7DI42R4QSQLTTU9Y5E3F2D464F30D3BA59FCDE951DE16725.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/K4/3N5QVL7DI42R4QSQLTTU9Y.uasset'
+[2024.11.07-22.12.18:191][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/TW/OZ6DFOIB95R6JTA2XKLP1I
+[2024.11.07-22.12.18:202][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/OZ6DFOIB95R6JTA2XKLP1IDFAD4BD74A5C560C91829AB140D282C3.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/TW/OZ6DFOIB95R6JTA2XKLP1I.uasset'
+[2024.11.07-22.12.18:204][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/V4/9LFQUCCRGI72S5I4M3NVNM
+[2024.11.07-22.12.18:206][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/9LFQUCCRGI72S5I4M3NVNMA29352DE48C2FFD35DC6D1A687F66076.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/V4/9LFQUCCRGI72S5I4M3NVNM.uasset'
+[2024.11.07-22.12.18:209][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L3/HMG7COBEWD64TNSYNTLVJ5
+[2024.11.07-22.12.18:210][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/HMG7COBEWD64TNSYNTLVJ5F5BD1A7442ADFDBAC9EBF4A60C52AF88.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L3/HMG7COBEWD64TNSYNTLVJ5.uasset'
+[2024.11.07-22.12.18:212][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/6T/DEOJPS794KFGIQYBR790TP
+[2024.11.07-22.12.18:214][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/DEOJPS794KFGIQYBR790TP7E46A141484FD8B64B86DB84AA40DDF7.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/6T/DEOJPS794KFGIQYBR790TP.uasset'
+[2024.11.07-22.12.18:216][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/4Z/X8A4IZE47JLXMQN2GPMXUJ
+[2024.11.07-22.12.18:217][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/X8A4IZE47JLXMQN2GPMXUJBCB2F919452D7A68186591B108ACAFF3.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/4Z/X8A4IZE47JLXMQN2GPMXUJ.uasset'
+[2024.11.07-22.12.18:221][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/FY/0IU39C88Y4GBAESC6VLANZ
+[2024.11.07-22.12.18:223][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/0IU39C88Y4GBAESC6VLANZ031E609648BEDE938C22688C49FAAA45.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/FY/0IU39C88Y4GBAESC6VLANZ.uasset'
+[2024.11.07-22.12.18:226][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/MP/BSHF56XMJBO936LAVUOBZ3
+[2024.11.07-22.12.18:226][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/BSHF56XMJBO936LAVUOBZ3564C0A2646F2E569BFDB4AA8260A948C.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/MP/BSHF56XMJBO936LAVUOBZ3.uasset'
+[2024.11.07-22.12.18:229][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/9Q/X361CQVP56Y4BLR1YNSYR1
+[2024.11.07-22.12.18:230][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/X361CQVP56Y4BLR1YNSYR1C5C3BC3B48405958B04E82A59614EA73.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/9Q/X361CQVP56Y4BLR1YNSYR1.uasset'
+[2024.11.07-22.12.18:232][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/FY/2XHGYU80L59PJQD7STOB61
+[2024.11.07-22.12.18:234][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/2XHGYU80L59PJQD7STOB61A785D3B541B150879E5C5188888B2739.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/FY/2XHGYU80L59PJQD7STOB61.uasset'
+[2024.11.07-22.12.18:236][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/WT/Y59PFLEEKYW9H8PWS0JNA0
+[2024.11.07-22.12.18:239][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Y59PFLEEKYW9H8PWS0JNA03E6CE7A74A4DCA17EEE7E69CEDD95056.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/WT/Y59PFLEEKYW9H8PWS0JNA0.uasset'
+[2024.11.07-22.12.18:242][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/IQ/SG1W6NCLQUNASMAK6Z4GXD
+[2024.11.07-22.12.18:243][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/SG1W6NCLQUNASMAK6Z4GXD38324E91485E61C7F3728AA01A2D5117.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/IQ/SG1W6NCLQUNASMAK6Z4GXD.uasset'
+[2024.11.07-22.12.18:246][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/A9/GG3QD4O7VKQX92XCG0UD4D
+[2024.11.07-22.12.18:247][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/GG3QD4O7VKQX92XCG0UD4D073C10134408DEA853AA59BEC9543FF4.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/A9/GG3QD4O7VKQX92XCG0UD4D.uasset'
+[2024.11.07-22.12.18:250][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/RW/6WQJP7UI3Y7S02R33BTHRJ
+[2024.11.07-22.12.18:252][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/6WQJP7UI3Y7S02R33BTHRJF46026B749FD237001CB9FB0DCE9A99A.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/RW/6WQJP7UI3Y7S02R33BTHRJ.uasset'
+[2024.11.07-22.12.18:256][342]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/AA/XJ7MUB2PLEF1VM9HM3O7M4
+[2024.11.07-22.12.18:256][342]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/XJ7MUB2PLEF1VM9HM3O7M476302C474F80072F777AF38AEA3A1CDE.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/AA/XJ7MUB2PLEF1VM9HM3O7M4.uasset'
+[2024.11.07-22.12.18:264][342]LogFileHelpers: InternalPromptForCheckoutAndSave took 224 ms (total: 20.6 sec)
+[2024.11.07-22.12.18:275][342]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1204628990
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1180712989
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1394872991
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1410223992
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1426746994
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1435748995
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1445332996
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1451936997
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1463573998
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1487000999
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1493826000
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1502134001
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1512785002
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1519897003
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1525009004
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1538218005
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1548454006
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1561948007
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1580295008
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1604075009
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1617955010
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1622012011
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1640449012
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1653755013
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1677541014
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1693581015
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1700545016
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1707607017
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1719065018
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1725767019
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43442D02_1744282020
+[2024.11.07-22.12.18:276][342]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.GroupActor_UAID_6C240845FE43442D02_1799888021
