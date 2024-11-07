@@ -1763,3 +1763,11 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.07-21.45.53:271][629]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StorageRoom/Cardboard/MAT_Cardboard_001.MAT_Cardboard_001
 [2024.11.07-21.45.53:271][629]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StorageRoom/Cardboard/MAT_Paper_Decal.MAT_Paper_Decal
 [2024.11.07-21.45.53:271][629]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/StorageRoom/Cardboard/cbox.cbox
+[2024.11.07-21.47.48:597][597]LogHttp: Warning: 00000B3319EAEB00: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDCE74589-4D6D-F319-3DC1-48983C0AEC21%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=5f49aecb4e186a3a265be38fcdaf9e1f%7Cbb20db71a98b49589f82a3065b179d07%7C1c74ffbe-ae52-4edd-8c1e-a1a638f87cb2&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.11.07-21.47.48:748][598]LogHttp: Warning: 00000B3319EAEB00: request failed, libcurl error: 0 (No error)
+[2024.11.07-21.47.48:748][598]LogHttp: Warning: 00000B3319EAEB00: libcurl info message cache 0 (Found bundle for host: 0xb323b950a20 [serially])
+[2024.11.07-21.47.48:748][598]LogHttp: Warning: 00000B3319EAEB00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.11.07-21.47.48:748][598]LogHttp: Warning: 00000B3319EAEB00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.11.07-21.47.48:748][598]LogHttp: Warning: 00000B3319EAEB00: libcurl info message cache 3 (Closing connection)
+[2024.11.07-21.47.48:748][598]LogHttp: Warning: 00000B3319EAEB00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2024.11.07-21.47.48:748][598]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDCE74589-4D6D-F319-3DC1-48983C0AEC21%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=5f49aecb4e186a3a265be38fcdaf9e1f%7Cbb20db71a98b49589f82a3065b179d07%7C1c74ffbe-ae52-4edd-8c1e-a1a638f87cb2&AppEnvironment=datacollector-binary&UploadType=eteventstream
