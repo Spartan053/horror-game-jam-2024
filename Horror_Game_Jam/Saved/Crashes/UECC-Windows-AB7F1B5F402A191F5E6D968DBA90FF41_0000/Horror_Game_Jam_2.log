@@ -1154,23 +1154,3 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.07-23.33.52:310][172]LogSkeletalMesh: Building Skeletal Mesh Zombie_Crawl...
 [2024.11.07-23.33.52:350][172]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Zombie_Crawl) ...
 [2024.11.07-23.34.02:342][172]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' exceeded budget of 10.000000s, reporting...
-[2024.11.07-23.34.02:520][172]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' report submitted, and took 0.177662s
-[2024.11.07-23.34.05:508][172]LogSkeletalMesh: Display: /Game/monster/Animations/Zombie_Crawl.Zombie_Crawl ComputeTangents MikkTSpace function: Compute a zero length normal vector.
-[2024.11.07-23.34.10:729][172]LogDerivedDataCache: C:/Users/david/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:52.359 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 26866 files in 29002 folders with total size 1917 MiB.
-[2024.11.07-23.34.34:246][172]LogSkeletalMesh: Built Skeletal Mesh [41.94s] /Game/monster/Animations/Zombie_Crawl.Zombie_Crawl
-[2024.11.07-23.34.34:455][172]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' complete in 42.122236s (32.122236s overbudget)
-[2024.11.07-23.34.35:060][172]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
-[2024.11.07-23.34.35:063][172]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
-[2024.11.07-23.34.35:098][172]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
-[2024.11.07-23.34.35:099][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2024.11.07-23.34.35:145][172]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Zombie_Crawl) ...
-[2024.11.07-23.34.35:969][172]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
-[2024.11.07-23.34.36:352][172]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
-[2024.11.07-23.34.36:553][172]LogAutomationController: Ignoring very large delta of 148.64 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
-[2024.11.07-23.34.37:027][173]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
-[2024.11.07-23.34.37:253][174]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
-[2024.11.07-23.34.38:114][175]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
-[2024.11.07-23.34.40:769][229]LogSlate: Window 'Content Browser' being destroyed
-[2024.11.07-23.34.40:800][229]LogSlate: Window 'Content Browser' being destroyed
-[2024.11.07-23.34.41:944][266]LogSlate: Window 'Message Log' being destroyed
-[2024.11.07-23.34.41:950][266]LogSlate: Window 'Message Log' being destroyed
