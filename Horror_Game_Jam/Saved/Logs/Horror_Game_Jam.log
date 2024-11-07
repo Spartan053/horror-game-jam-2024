@@ -1179,3 +1179,31 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.07-23.21.17:648][344]LogSlate: Window 'Content Browser' being destroyed
 [2024.11.07-23.21.18:857][387]LogSlate: Window 'Message Log' being destroyed
 [2024.11.07-23.21.18:875][387]LogSlate: Window 'Message Log' being destroyed
+[2024.11.07-23.21.44:961][721]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Downloads/Zombie Stand Up.fbx)
+[2024.11.07-23.21.45:029][721]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Downloads/Zombie Stand Up.fbx
+[2024.11.07-23.21.45:601][721]LogFbx: FBX Scene Loaded Succesfully
+[2024.11.07-23.21.54:294][721]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.11.07-23.21.54:328][721]LogFbx: Valid bind pose for Pose (BindPose) - monsterforgame.002
+[2024.11.07-23.21.54:377][721]LogFbx: Triangulating skeletal mesh monsterforgame.002
+[2024.11.07-23.22.11:386][721]LogFbx: Bones digested - 33  Depth of hierarchy - 12
+[2024.11.07-23.22.25:617][721]LogSkeletalMesh: Display: /Game/monster/Animations/Zombie_Stand_Up.Zombie_Stand_Up ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2024.11.07-23.22.47:644][721]LogSkeletalMesh: Section 0: Material=0, 687208 triangles
+[2024.11.07-23.22.47:644][721]LogSkeletalMesh: Section 1: Material=1, 1824 triangles
+[2024.11.07-23.22.47:644][721]LogSkeletalMesh: Section 2: Material=2, 31744 triangles
+[2024.11.07-23.22.48:787][721]LogSkeletalMesh: Building Skeletal Mesh Zombie_Stand_Up...
+[2024.11.07-23.22.48:811][721]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Zombie_Stand_Up) ...
+[2024.11.07-23.22.58:798][721]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' exceeded budget of 10.000000s
+[2024.11.07-23.23.00:751][721]LogSkeletalMesh: Display: /Game/monster/Animations/Zombie_Stand_Up.Zombie_Stand_Up ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2024.11.07-23.23.24:014][721]LogSkeletalMesh: Built Skeletal Mesh [35.23s] /Game/monster/Animations/Zombie_Stand_Up.Zombie_Stand_Up
+[2024.11.07-23.23.24:200][721]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' complete in 35.405508s (25.405508s overbudget)
+[2024.11.07-23.23.24:466][721]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.07-23.23.24:466][721]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.07-23.23.24:481][721]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.11.07-23.23.24:481][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.07-23.23.24:528][721]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Zombie_Stand_Up) ...
+[2024.11.07-23.23.25:197][721]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.11.07-23.23.26:112][730]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.07-23.23.43:385][400]LogSlate: Window 'Content Browser' being destroyed
+[2024.11.07-23.23.43:410][400]LogSlate: Window 'Content Browser' being destroyed
+[2024.11.07-23.23.44:598][450]LogSlate: Window 'Message Log' being destroyed
+[2024.11.07-23.23.44:604][450]LogSlate: Window 'Message Log' being destroyed
