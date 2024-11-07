@@ -1207,3 +1207,31 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.07-23.23.43:410][400]LogSlate: Window 'Content Browser' being destroyed
 [2024.11.07-23.23.44:598][450]LogSlate: Window 'Message Log' being destroyed
 [2024.11.07-23.23.44:604][450]LogSlate: Window 'Message Log' being destroyed
+[2024.11.07-23.24.07:084][901]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Downloads/Thriller Idle.fbx)
+[2024.11.07-23.24.07:202][901]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Downloads/Thriller Idle.fbx
+[2024.11.07-23.24.07:736][901]LogFbx: FBX Scene Loaded Succesfully
+[2024.11.07-23.24.24:668][901]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.11.07-23.24.24:699][901]LogFbx: Valid bind pose for Pose (BindPose) - monsterforgame.002
+[2024.11.07-23.24.24:733][901]LogFbx: Triangulating skeletal mesh monsterforgame.002
+[2024.11.07-23.24.41:790][901]LogFbx: Bones digested - 33  Depth of hierarchy - 12
+[2024.11.07-23.24.56:153][901]LogSkeletalMesh: Display: /Game/monster/Animations/Thriller_Idle.Thriller_Idle ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2024.11.07-23.25.20:230][901]LogSkeletalMesh: Section 0: Material=0, 687208 triangles
+[2024.11.07-23.25.20:230][901]LogSkeletalMesh: Section 1: Material=1, 1824 triangles
+[2024.11.07-23.25.20:230][901]LogSkeletalMesh: Section 2: Material=2, 31744 triangles
+[2024.11.07-23.25.21:491][901]LogSkeletalMesh: Building Skeletal Mesh Thriller_Idle...
+[2024.11.07-23.25.21:520][901]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Thriller_Idle) ...
+[2024.11.07-23.25.31:505][901]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' exceeded budget of 10.000000s
+[2024.11.07-23.25.32:734][901]LogSkeletalMesh: Display: /Game/monster/Animations/Thriller_Idle.Thriller_Idle ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2024.11.07-23.25.55:703][901]LogSkeletalMesh: Built Skeletal Mesh [34.21s] /Game/monster/Animations/Thriller_Idle.Thriller_Idle
+[2024.11.07-23.25.55:901][901]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' complete in 34.399450s (24.399450s overbudget)
+[2024.11.07-23.25.56:144][901]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.07-23.25.56:144][901]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.07-23.25.56:158][901]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.11.07-23.25.56:159][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.07-23.25.56:210][901]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Thriller_Idle) ...
+[2024.11.07-23.25.56:925][901]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.11.07-23.25.57:819][915]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.07-23.26.00:744][ 24]LogSlate: Window 'Content Browser' being destroyed
+[2024.11.07-23.26.00:762][ 24]LogSlate: Window 'Content Browser' being destroyed
+[2024.11.07-23.26.02:117][ 78]LogSlate: Window 'Message Log' being destroyed
+[2024.11.07-23.26.02:133][ 78]LogSlate: Window 'Message Log' being destroyed
