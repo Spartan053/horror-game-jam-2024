@@ -1771,3 +1771,1114 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.07-21.47.48:748][598]LogHttp: Warning: 00000B3319EAEB00: libcurl info message cache 3 (Closing connection)
 [2024.11.07-21.47.48:748][598]LogHttp: Warning: 00000B3319EAEB00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS alert, close notify (256):)
 [2024.11.07-21.47.48:748][598]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDCE74589-4D6D-F319-3DC1-48983C0AEC21%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=5f49aecb4e186a3a265be38fcdaf9e1f%7Cbb20db71a98b49589f82a3065b179d07%7C1c74ffbe-ae52-4edd-8c1e-a1a638f87cb2&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.11.07-21.48.52:257][101]LogInterchangeEngine: [Pending] Importing
+[2024.11.07-21.48.52:257][101]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/01_01_BaseColor.png]
+[2024.11.07-21.48.52:258][101]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.11.07-21.48.52:258][101]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/01_01_Metallic.png]
+[2024.11.07-21.48.52:258][101]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.11.07-21.48.52:258][101]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/01_01_Normal.png]
+[2024.11.07-21.48.52:259][101]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.11.07-21.48.52:259][101]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/01_01_Roughness.png]
+[2024.11.07-21.48.52:259][101]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.11.07-21.48.52:259][101]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/01_02_Metallic.png]
+[2024.11.07-21.48.52:259][101]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.52:260][101]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/01_02_Normal.png]
+[2024.11.07-21.48.52:260][101]LogInterchangeEngine: [Pending] Importing -  (7)
+[2024.11.07-21.48.52:260][101]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/01_bala_panjereh_BaseColor.png]
+[2024.11.07-21.48.52:260][101]LogInterchangeEngine: [Pending] Importing -  (8)
+[2024.11.07-21.48.52:261][101]LogInterchangeEngine: [Pending] Importing -  (9)
+[2024.11.07-21.48.52:261][101]LogInterchangeEngine: [Pending] Importing -  (10)
+[2024.11.07-21.48.52:262][101]LogInterchangeEngine: [Pending] Importing -  (11)
+[2024.11.07-21.48.52:262][101]LogInterchangeEngine: [Pending] Importing -  (12)
+[2024.11.07-21.48.52:262][101]LogInterchangeEngine: [Pending] Importing -  (13)
+[2024.11.07-21.48.52:263][101]LogInterchangeEngine: [Pending] Importing -  (14)
+[2024.11.07-21.48.52:263][101]LogInterchangeEngine: [Pending] Importing -  (15)
+[2024.11.07-21.48.52:264][101]LogInterchangeEngine: [Pending] Importing -  (16)
+[2024.11.07-21.48.52:264][101]LogInterchangeEngine: [Pending] Importing -  (17)
+[2024.11.07-21.48.52:264][101]LogInterchangeEngine: [Pending] Importing -  (18)
+[2024.11.07-21.48.52:265][101]LogInterchangeEngine: [Pending] Importing -  (19)
+[2024.11.07-21.48.52:265][101]LogInterchangeEngine: [Pending] Importing -  (20)
+[2024.11.07-21.48.52:265][101]LogInterchangeEngine: [Pending] Importing -  (21)
+[2024.11.07-21.48.52:266][101]LogInterchangeEngine: [Pending] Importing -  (22)
+[2024.11.07-21.48.52:266][101]LogInterchangeEngine: [Pending] Importing -  (23)
+[2024.11.07-21.48.52:267][101]LogInterchangeEngine: [Pending] Importing -  (24)
+[2024.11.07-21.48.52:267][101]LogInterchangeEngine: [Pending] Importing -  (25)
+[2024.11.07-21.48.52:267][101]LogInterchangeEngine: [Pending] Importing -  (26)
+[2024.11.07-21.48.52:267][101]LogInterchangeEngine: [Pending] Importing -  (27)
+[2024.11.07-21.48.52:268][101]LogInterchangeEngine: [Pending] Importing -  (28)
+[2024.11.07-21.48.52:268][101]LogInterchangeEngine: [Pending] Importing -  (29)
+[2024.11.07-21.48.52:268][101]LogInterchangeEngine: [Pending] Importing -  (30)
+[2024.11.07-21.48.52:269][101]LogInterchangeEngine: [Pending] Importing -  (31)
+[2024.11.07-21.48.52:269][101]LogInterchangeEngine: [Pending] Importing -  (32)
+[2024.11.07-21.48.52:269][101]LogInterchangeEngine: [Pending] Importing -  (33)
+[2024.11.07-21.48.52:270][101]LogInterchangeEngine: [Pending] Importing -  (34)
+[2024.11.07-21.48.52:270][101]LogInterchangeEngine: [Pending] Importing -  (35)
+[2024.11.07-21.48.52:271][101]LogInterchangeEngine: [Pending] Importing -  (36)
+[2024.11.07-21.48.52:271][101]LogInterchangeEngine: [Pending] Importing -  (37)
+[2024.11.07-21.48.52:288][102]LogTexture: Display: Building textures: /Game/StorageRoom/01_01_Metallic.01_01_Metallic (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 121.145823 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.52:291][102]LogTexture: Display: Building textures: /Game/StorageRoom/01_02_Metallic.01_02_Metallic (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 121.145823 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.52:350][102]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.52:350][102]LogInterchangeEngine: [Pending] Importing -  (36)
+[2024.11.07-21.48.52:350][102]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/01_nime_BaseColor.png]
+[2024.11.07-21.48.52:351][102]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.52:351][102]LogInterchangeEngine: [Pending] Importing -  (35)
+[2024.11.07-21.48.52:351][102]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/01_nime_Normal.png]
+[2024.11.07-21.48.52:354][102]LogTexture: Display: Building textures: /Game/StorageRoom/01_01_Roughness.01_01_Roughness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 121.145823 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.52:359][102]LogTexture: Display: Building textures: /Game/StorageRoom/01_01_BaseColor.01_01_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.52:372][102]LogInterchangeEngine: [Pending] Importing -  (35)
+[2024.11.07-21.48.52:427][102]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.11.07-21.48.52:429][102]LogTexture: Display: Building textures: /Game/StorageRoom/01_02_Normal.01_02_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 217.562488 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.52:476][102]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.11.07-21.48.52:477][102]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.52:477][102]LogInterchangeEngine: [Pending] Importing -  (34)
+[2024.11.07-21.48.52:477][102]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/01_nime_Roughness.png]
+[2024.11.07-21.48.52:477][102]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.52:477][102]LogInterchangeEngine: [Pending] Importing -  (33)
+[2024.11.07-21.48.52:477][102]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/01_sotoon.1_BaseColor.png]
+[2024.11.07-21.48.52:478][102]LogTexture: Display: Building textures: /Game/StorageRoom/01_01_Normal.01_01_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 217.562488 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.52:481][102]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.52:481][102]LogInterchangeEngine: [Pending] Importing -  (32)
+[2024.11.07-21.48.52:481][102]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/01_sotoon.1_Roughness.png]
+[2024.11.07-21.48.52:482][102]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.52:482][102]LogInterchangeEngine: [Pending] Importing -  (31)
+[2024.11.07-21.48.52:482][102]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/01_wall_BaseColor.png]
+[2024.11.07-21.48.52:493][102]LogTexture: Display: Building textures: /Game/StorageRoom/01_bala_panjereh_BaseColor.01_bala_panjereh_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.52:556][102]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.11.07-21.48.52:557][102]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.52:557][102]LogInterchangeEngine: [Pending] Importing -  (30)
+[2024.11.07-21.48.52:557][102]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/01_wall_Normal.png]
+[2024.11.07-21.48.52:600][102]LogTexture: Display: Building textures: /Game/StorageRoom/01_nime_Normal.01_nime_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 217.562488 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.52:670][102]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.52:670][102]LogInterchangeEngine: [Pending] Importing -  (29)
+[2024.11.07-21.48.52:670][102]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/01_zirpanjereh_BaseColor.png]
+[2024.11.07-21.48.52:673][102]LogTexture: Display: Building textures: /Game/StorageRoom/01_nime_Roughness.01_nime_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.52:677][102]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.52:677][102]LogInterchangeEngine: [Pending] Importing -  (28)
+[2024.11.07-21.48.52:678][102]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/Normal.png]
+[2024.11.07-21.48.52:678][102]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.52:679][102]LogInterchangeEngine: [Pending] Importing -  (27)
+[2024.11.07-21.48.52:679][102]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/sl4qlkd_2K_Albedo.jpg]
+[2024.11.07-21.48.52:682][102]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.52:682][102]LogInterchangeEngine: [Pending] Importing -  (26)
+[2024.11.07-21.48.52:682][102]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/sl4qlkd_2K_Normal.jpg]
+[2024.11.07-21.48.52:689][102]LogTexture: Display: Building textures: /Game/StorageRoom/01_sotoon_1_Roughness.01_sotoon_1_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.52:692][102]LogTexture: Display: Building textures: /Game/StorageRoom/01_nime_BaseColor.01_nime_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.52:709][102]LogInterchangeImport: JPEG file [C:/Users/david/Downloads/room-99mb/textures/sl4qlkd_2K_Albedo.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.11.07-21.48.52:711][102]LogInterchangeImport: JPEG file [C:/Users/david/Downloads/room-99mb/textures/sl4qlkd_2K_Normal.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.11.07-21.48.52:715][102]LogTexture: Display: Building textures: /Game/StorageRoom/01_sotoon_1_BaseColor.01_sotoon_1_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.52:745][102]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.52:745][102]LogInterchangeEngine: [Pending] Importing -  (25)
+[2024.11.07-21.48.52:745][102]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/window4_w_BaseColor.png]
+[2024.11.07-21.48.53:001][103]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.11.07-21.48.53:047][103]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.11.07-21.48.53:060][103]LogTexture: Display: Building textures: /Game/StorageRoom/Normal.Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.53:061][103]LogTexture: Display: Building textures: /Game/StorageRoom/01_wall_Normal.01_wall_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 217.562488 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.53:201][103]LogTexture: Display: Building textures: /Game/StorageRoom/sl4qlkd_2K_Albedo.sl4qlkd_2K_Albedo (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.53:285][103]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.11.07-21.48.53:293][103]LogTexture: Display: Building textures: /Game/StorageRoom/01_wall_BaseColor.01_wall_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.53:353][103]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.53:355][103]LogInterchangeEngine: [Pending] Importing -  (24)
+[2024.11.07-21.48.53:355][103]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/window4_w_Normal.png]
+[2024.11.07-21.48.53:355][103]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.53:355][103]LogInterchangeEngine: [Pending] Importing -  (23)
+[2024.11.07-21.48.53:355][103]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/پارکینگ_DefaultMaterial_BaseColor.png]
+[2024.11.07-21.48.53:355][103]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.53:355][103]LogInterchangeEngine: [Pending] Importing -  (22)
+[2024.11.07-21.48.53:355][103]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/پارکینگ_DefaultMaterial_Normal.png]
+[2024.11.07-21.48.53:356][103]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.53:356][103]LogInterchangeEngine: [Pending] Importing -  (21)
+[2024.11.07-21.48.53:356][103]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/01_02_BaseColor.png]
+[2024.11.07-21.48.53:356][103]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.53:356][103]LogInterchangeEngine: [Pending] Importing -  (20)
+[2024.11.07-21.48.53:356][103]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/01_02_Roughness.png]
+[2024.11.07-21.48.53:405][103]LogTexture: Display: Building textures: /Game/StorageRoom/window4_w_BaseColor.window4_w_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.53:405][103]LogTexture: Display: Building textures: /Game/StorageRoom/01_zirpanjereh_BaseColor.01_zirpanjereh_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.53:419][103]LogTexture: Display: Building textures: /Game/StorageRoom/sl4qlkd_2K_Normal.sl4qlkd_2K_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.53:515][103]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.53:515][103]LogInterchangeEngine: [Pending] Importing -  (19)
+[2024.11.07-21.48.53:515][103]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/01_bala_panjereh_Normal.png]
+[2024.11.07-21.48.53:516][103]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.53:516][103]LogInterchangeEngine: [Pending] Importing -  (18)
+[2024.11.07-21.48.53:516][103]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/01_bala_panjereh_Roughness.png]
+[2024.11.07-21.48.53:763][105]LogTexture: Display: Building textures: /Game/StorageRoom/01_02_Roughness.01_02_Roughness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 121.145823 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.53:769][105]LogTexture: Display: Building textures: /Game/StorageRoom/01_02_BaseColor.01_02_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.53:827][105]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.11.07-21.48.53:828][105]LogTexture: Display: Building textures: /Game/StorageRoom/پارکینگ_DefaultMaterial_Normal.پارکینگ_DefaultMaterial_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 217.562488 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.53:876][105]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.53:876][105]LogInterchangeEngine: [Pending] Importing -  (17)
+[2024.11.07-21.48.53:876][105]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/01_sotoon.1_Normal.png]
+[2024.11.07-21.48.53:876][105]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.53:876][105]LogInterchangeEngine: [Pending] Importing -  (16)
+[2024.11.07-21.48.53:876][105]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/01_wall_Roughness.png]
+[2024.11.07-21.48.53:880][105]LogTexture: Display: Building textures: /Game/StorageRoom/01_bala_panjereh_Roughness.01_bala_panjereh_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.53:904][105]LogTexture: Display: Building textures: /Game/StorageRoom/پارکینگ_DefaultMaterial_BaseColor.پارکینگ_DefaultMaterial_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.53:954][105]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.11.07-21.48.54:001][105]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.11.07-21.48.54:002][105]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.54:002][105]LogInterchangeEngine: [Pending] Importing -  (15)
+[2024.11.07-21.48.54:002][105]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/01_zirpanjereh_Normal.png]
+[2024.11.07-21.48.54:023][105]LogTexture: Display: Building textures: /Game/StorageRoom/01_bala_panjereh_Normal.01_bala_panjereh_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 217.562488 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.54:029][105]LogTexture: Display: Building textures: /Game/StorageRoom/window4_w_Normal.window4_w_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.54:061][105]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.54:062][105]LogInterchangeEngine: [Pending] Importing -  (14)
+[2024.11.07-21.48.54:062][105]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/01_zirpanjereh_Roughness.png]
+[2024.11.07-21.48.54:065][105]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.54:065][105]LogInterchangeEngine: [Pending] Importing -  (13)
+[2024.11.07-21.48.54:065][105]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/BaseColor.png]
+[2024.11.07-21.48.54:066][105]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.54:066][105]LogInterchangeEngine: [Pending] Importing -  (12)
+[2024.11.07-21.48.54:066][105]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/Roughness.png]
+[2024.11.07-21.48.54:067][105]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.54:067][105]LogInterchangeEngine: [Pending] Importing -  (11)
+[2024.11.07-21.48.54:067][105]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/sl4qlkd_2K_Roughness.jpg]
+[2024.11.07-21.48.54:132][106]LogSlate: Took 0.008985 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NotoNaskhArabicUI-Regular.ttf' (144K)
+[2024.11.07-21.48.54:229][106]LogInterchangeImport: JPEG file [C:/Users/david/Downloads/room-99mb/textures/sl4qlkd_2K_Roughness.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.11.07-21.48.54:232][106]LogTexture: Display: Building textures: /Game/StorageRoom/01_wall_Roughness.01_wall_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.54:237][106]LogTexture: Display: Building textures: /Game/StorageRoom/BaseColor.BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.54:246][106]LogTexture: Display: Building textures: /Game/StorageRoom/01_zirpanjereh_Roughness.01_zirpanjereh_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.54:322][106]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.11.07-21.48.54:383][106]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.11.07-21.48.54:407][106]LogTexture: Display: Building textures: /Game/StorageRoom/Roughness.Roughness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 121.145823 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.54:410][106]LogTexture: Display: Building textures: /Game/StorageRoom/01_sotoon_1_Normal.01_sotoon_1_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 217.562488 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.54:410][106]LogTexture: Display: Building textures: /Game/StorageRoom/01_zirpanjereh_Normal.01_zirpanjereh_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 217.562488 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.54:442][106]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.54:443][106]LogInterchangeEngine: [Pending] Importing -  (10)
+[2024.11.07-21.48.54:443][106]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/window4_w_Metallic.png]
+[2024.11.07-21.48.54:443][106]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.54:444][106]LogInterchangeEngine: [Pending] Importing -  (9)
+[2024.11.07-21.48.54:444][106]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/window4_w_Roughness.png]
+[2024.11.07-21.48.54:444][106]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.54:444][106]LogInterchangeEngine: [Pending] Importing -  (8)
+[2024.11.07-21.48.54:444][106]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/پارکینگ_DefaultMaterial_Metallic.png]
+[2024.11.07-21.48.54:444][106]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.54:444][106]LogInterchangeEngine: [Pending] Importing -  (7)
+[2024.11.07-21.48.54:444][106]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/david/Downloads/room-99mb/textures/پارکینگ_DefaultMaterial_Roughness.png]
+[2024.11.07-21.48.54:445][106]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.11.07-21.48.54:462][107]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.11.07-21.48.54:463][107]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.11.07-21.48.54:528][107]LogTexture: Display: Building textures: /Game/StorageRoom/sl4qlkd_2K_Roughness.sl4qlkd_2K_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.54:703][107]LogTexture: Display: Building textures: /Game/StorageRoom/window4_w_Metallic.window4_w_Metallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.54:709][107]LogTexture: Display: Building textures: /Game/StorageRoom/پارکینگ_DefaultMaterial_Metallic.پارکینگ_DefaultMaterial_Metallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.54:718][107]LogTexture: Display: Building textures: /Game/StorageRoom/window4_w_Roughness.window4_w_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.54:718][107]LogTexture: Display: Building textures: /Game/StorageRoom/پارکینگ_DefaultMaterial_Roughness.پارکینگ_DefaultMaterial_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.11.07-21.48.54:970][108]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.11.07-21.48.54:970][108]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.11.07-21.48.54:970][108]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.11.07-21.48.54:970][108]LogInterchangeEngine: [Success] Import Done
+[2024.11.07-21.48.55:097][109]LogInterchangeEngine: [Success] Import Done
+[2024.11.07-21.49.26:955][813]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StorageRoom/01_2.01_2
+[2024.11.07-21.49.26:977][813]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.07-21.49.26:977][813]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.07-21.49.27:297][813]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.49.27:297][813]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-21.49.27:297][813]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.49.27:312][813]LogSlate: Took 0.005460 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.11.07-21.49.27:317][813]LogViewport: Scene viewport resized to 374x421, mode Windowed.
+[2024.11.07-21.49.27:421][814]LogShaderCompilers: Display: ================================================
+[2024.11.07-21.49.27:421][814]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.07-21.49.27:421][814]LogShaderCompilers: Display: Total job queries 3,877, among them cache hits 3,737 (96.39%)
+[2024.11.07-21.49.27:421][814]LogShaderCompilers: Display: Tracking 140 distinct input hashes that result in 73 distinct outputs (52.14%)
+[2024.11.07-21.49.27:421][814]LogShaderCompilers: Display: RAM used: 3.62 MiB of 716.80 MiB budget. Usage: 0.50%
+[2024.11.07-21.49.27:421][814]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.07-21.49.27:421][814]LogShaderCompilers: Display: Shaders Compiled: 95
+[2024.11.07-21.49.27:421][814]LogShaderCompilers: Display: Jobs assigned 95, completed 95 (100%)
+[2024.11.07-21.49.27:421][814]LogShaderCompilers: Display: Average time worker was idle: 25.16 s
+[2024.11.07-21.49.27:421][814]LogShaderCompilers: Display: Time job spent in pending queue: average 0.36 s, longest 1.68 s
+[2024.11.07-21.49.27:421][814]LogShaderCompilers: Display: Job execution time: average 0.63 s, max 1.69 s
+[2024.11.07-21.49.27:421][814]LogShaderCompilers: Display: Job life time (pending + execution): average 0.99 s, max 2.10
+[2024.11.07-21.49.27:421][814]LogShaderCompilers: Display: Shader code size: average 48.608 KiB, min 4.668 KiB, max 93.699 KiB
+[2024.11.07-21.49.27:421][814]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.04 s
+[2024.11.07-21.49.27:421][814]LogShaderCompilers: Display: Jobs were issued in 95 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.07-21.49.27:421][814]LogShaderCompilers: Display: Average processing rate: 9.47 jobs/sec
+[2024.11.07-21.49.27:421][814]LogShaderCompilers: Display: Total thread time: 45.683 s
+[2024.11.07-21.49.27:421][814]LogShaderCompilers: Display: Total thread preprocess time: 8.863 s
+[2024.11.07-21.49.27:421][814]LogShaderCompilers: Display: Percentage time preprocessing: 19.40%
+[2024.11.07-21.49.27:421][814]LogShaderCompilers: Display: Effective parallelization: 4.55 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.11.07-21.49.27:421][814]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.07-21.49.27:421][814]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    1 times, average 0.83 sec, max 0.83 sec, min 0.83 sec)
+[2024.11.07-21.49.27:421][814]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2024.11.07-21.49.27:421][814]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2024.11.07-21.49.27:421][814]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.65 sec, max 0.78 sec, min 0.51 sec)
+[2024.11.07-21.49.27:421][814]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    1 times, average 0.65 sec, max 0.65 sec, min 0.65 sec)
+[2024.11.07-21.49.27:421][814]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.07-21.49.27:422][814]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.11% of total time (compiled    5 times, average 0.65 sec, max 1.10 sec, min 0.42 sec)
+[2024.11.07-21.49.27:422][814]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 6.74% of total time (compiled    5 times, average 0.62 sec, max 1.09 sec, min 0.35 sec)
+[2024.11.07-21.49.27:422][814]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.58% of total time (compiled    5 times, average 0.60 sec, max 1.01 sec, min 0.39 sec)
+[2024.11.07-21.49.27:422][814]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 6.50% of total time (compiled    5 times, average 0.59 sec, max 1.05 sec, min 0.38 sec)
+[2024.11.07-21.49.27:422][814]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.73% of total time (compiled    4 times, average 0.65 sec, max 0.78 sec, min 0.51 sec)
+[2024.11.07-21.49.27:422][814]LogShaderCompilers: Display: ================================================
+[2024.11.07-21.49.27:523][815]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.11.07-21.49.27:523][815]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.11.07-21.49.27:523][815]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.07-21.49.27:523][815]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-21.49.27:523][815]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.49.29:204][892]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.49.29:204][892]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-21.49.29:204][892]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.49.29:673][911]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.11.07-21.49.29:673][911]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.11.07-21.49.29:673][911]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.07-21.49.29:673][911]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-21.49.29:673][911]MaterialEditorStats: Shader Count: 2
+[2024.11.07-21.49.33:801][ 98]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.49.33:802][ 98]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.49.33:802][ 98]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.49.33:802][ 98]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.49.33:921][100]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.11.07-21.49.33:921][100]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.49.33:921][100]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.07-21.49.33:921][100]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.49.33:921][100]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.49.33:921][100]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.49.35:968][203]LogMaterialEditor: Saving and Compiling material 01_2
+[2024.11.07-21.49.36:295][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.11.07-21.49.36:728][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.11.07-21.49.36:739][203]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.07-21.49.37:647][203]LogSavePackage: Moving output files for package: /Game/StorageRoom/01_2
+[2024.11.07-21.49.37:648][203]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/01_2D3BDC8E24E46ED7F5D5CB480709A3ADE.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/01_2.uasset'
+[2024.11.07-21.49.37:657][203]LogFileHelpers: InternalPromptForCheckoutAndSave took 917 ms (total: 11.1 sec)
+[2024.11.07-21.49.37:658][203]AssetCheck: New page: Asset Save: 01_2
+[2024.11.07-21.49.37:658][203]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StorageRoom/01_2.01_2
+[2024.11.07-21.49.37:666][203]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.11.07-21.49.37:666][203]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.49.37:666][203]MaterialEditorStats: MaxSampler: 244 instructions
+[2024.11.07-21.49.37:666][203]MaterialEditorStats: Texture samplers: 4/16
+[2024.11.07-21.49.37:666][203]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.49.37:666][203]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.49.37:666][203]MaterialEditorStats: Shader Count: 16
+[2024.11.07-21.49.41:521][384]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.11.07-21.49.41:521][384]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.49.41:521][384]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.07-21.49.41:521][384]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.49.41:521][384]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.49.41:521][384]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.49.43:461][479]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.49.43:461][479]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-21.49.43:461][479]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.49.43:461][479]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.49.43:817][491]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.07-21.49.43:817][491]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-21.49.43:817][491]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.49.43:817][491]MaterialEditorStats: Shader Count: 1
+[2024.11.07-21.49.44:023][500]MaterialEditorStats: Base pass shader: 198 instructions
+[2024.11.07-21.49.44:023][500]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.49.44:023][500]MaterialEditorStats: Texture samplers: 4/16
+[2024.11.07-21.49.44:023][500]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-21.49.44:023][500]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.49.44:023][500]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.49.51:252][841]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.49.51:252][841]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.11.07-21.49.51:252][841]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.49.51:252][841]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.49.51:657][854]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.07-21.49.51:657][854]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.11.07-21.49.51:657][854]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.49.51:657][854]MaterialEditorStats: Shader Count: 1
+[2024.11.07-21.49.51:860][863]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.49.51:860][863]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.07-21.49.51:860][863]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.11.07-21.49.51:860][863]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.49.51:860][863]MaterialEditorStats: Shader Count: 3
+[2024.11.07-21.49.51:943][867]MaterialEditorStats: Base pass shader: 201 instructions
+[2024.11.07-21.49.51:943][867]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.49.51:943][867]MaterialEditorStats: Texture samplers: 5/16
+[2024.11.07-21.49.51:943][867]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.11.07-21.49.51:943][867]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.49.51:943][867]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.50.00:556][258]LogMaterialEditor: Applying material 01_2
+[2024.11.07-21.50.00:608][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.11.07-21.50.01:268][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.11.07-21.50.02:169][293]LogMaterialEditor: Saving and Compiling material 01_2
+[2024.11.07-21.50.02:172][293]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.07-21.50.03:157][293]LogSavePackage: Moving output files for package: /Game/StorageRoom/01_2
+[2024.11.07-21.50.03:159][293]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/01_217228FDE4AA952A7B26ECFA91AC5C0E0.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/01_2.uasset'
+[2024.11.07-21.50.03:168][293]LogFileHelpers: InternalPromptForCheckoutAndSave took 996 ms (total: 12.1 sec)
+[2024.11.07-21.50.03:169][293]AssetCheck: New page: Asset Save: 01_2
+[2024.11.07-21.50.03:169][293]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StorageRoom/01_2.01_2
+[2024.11.07-21.50.03:170][293]MaterialEditorStats: Base pass shader: 201 instructions
+[2024.11.07-21.50.03:170][293]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.50.03:170][293]MaterialEditorStats: MaxSampler: 250 instructions
+[2024.11.07-21.50.03:170][293]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.07-21.50.03:170][293]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.11.07-21.50.03:170][293]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.50.03:170][293]MaterialEditorStats: Shader Count: 16
+[2024.11.07-21.50.04:432][352]LogSlate: Window '01_2' being destroyed
+[2024.11.07-21.50.04:455][352]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.11.07-21.50.04:455][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.07-21.51.36:680][685]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StorageRoom/02_2.02_2
+[2024.11.07-21.51.36:684][685]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.07-21.51.36:684][685]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.07-21.51.36:858][685]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.51.36:858][685]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-21.51.36:858][685]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.51.36:868][685]LogViewport: Scene viewport resized to 374x421, mode Windowed.
+[2024.11.07-21.51.36:934][687]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.11.07-21.51.36:934][687]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.11.07-21.51.36:934][687]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.07-21.51.36:934][687]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-21.51.36:934][687]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.52.04:954][997]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StorageRoom/floor.floor
+[2024.11.07-21.52.04:960][997]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.07-21.52.04:960][997]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.07-21.52.05:081][997]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.52.05:081][997]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-21.52.05:081][997]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.52.05:122][997]LogViewport: Scene viewport resized to 374x421, mode Windowed.
+[2024.11.07-21.52.05:176][999]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.11.07-21.52.05:176][999]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.11.07-21.52.05:176][999]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.07-21.52.05:176][999]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-21.52.05:176][999]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.52.09:743][221]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.52.09:743][221]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.52.09:743][221]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.52.09:743][221]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.52.09:865][223]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.11.07-21.52.09:865][223]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.52.09:865][223]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.07-21.52.09:865][223]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.52.09:865][223]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.52.09:865][223]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.52.11:360][289]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.52.11:360][289]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.52.11:360][289]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.52.11:360][289]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.52.11:416][291]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.11.07-21.52.11:416][291]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.52.11:416][291]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.07-21.52.11:416][291]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.52.11:416][291]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.52.11:416][291]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.52.15:178][475]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.52.15:178][475]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.52.15:178][475]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.52.15:178][475]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.52.15:710][493]MaterialEditorStats: Texture samplers: 1/16
+[2024.11.07-21.52.15:710][493]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.52.15:710][493]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.52.15:710][493]MaterialEditorStats: Shader Count: 1
+[2024.11.07-21.52.15:916][501]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.11.07-21.52.15:916][501]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.52.15:916][501]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.07-21.52.15:916][501]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.52.15:916][501]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.52.15:916][501]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.52.17:572][579]LogMaterialEditor: Saving and Compiling material floor
+[2024.11.07-21.52.17:655][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.11.07-21.52.18:045][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.11.07-21.52.18:056][579]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.07-21.52.19:013][579]LogSavePackage: Moving output files for package: /Game/StorageRoom/floor
+[2024.11.07-21.52.19:014][579]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/floor9ECFED254DEC3F28CC2288BA62F4EDFE.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/floor.uasset'
+[2024.11.07-21.52.19:025][579]LogFileHelpers: InternalPromptForCheckoutAndSave took 969 ms (total: 13.1 sec)
+[2024.11.07-21.52.19:027][579]AssetCheck: New page: Asset Save: floor
+[2024.11.07-21.52.19:027][579]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StorageRoom/floor.floor
+[2024.11.07-21.52.19:032][579]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.11.07-21.52.19:032][579]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.52.19:032][579]MaterialEditorStats: MaxSampler: 244 instructions
+[2024.11.07-21.52.19:032][579]MaterialEditorStats: Texture samplers: 4/16
+[2024.11.07-21.52.19:032][579]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.52.19:032][579]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.52.19:032][579]MaterialEditorStats: Shader Count: 16
+[2024.11.07-21.52.19:520][598]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.11.07-21.52.19:520][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.07-21.52.21:040][674]LogSlate: Window '02_2' being destroyed
+[2024.11.07-21.52.21:061][674]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.11.07-21.52.21:061][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.07-21.52.47:868][253]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StorageRoom/bala_panjereh.bala_panjereh
+[2024.11.07-21.52.47:872][253]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.07-21.52.47:872][253]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.07-21.52.48:046][253]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.52.48:046][253]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-21.52.48:046][253]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.52.48:054][253]LogViewport: Scene viewport resized to 374x421, mode Windowed.
+[2024.11.07-21.52.48:094][254]LogShaderCompilers: Display: ================================================
+[2024.11.07-21.52.48:094][254]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.07-21.52.48:094][254]LogShaderCompilers: Display: Total job queries 4,068, among them cache hits 3,868 (95.08%)
+[2024.11.07-21.52.48:094][254]LogShaderCompilers: Display: Tracking 200 distinct input hashes that result in 109 distinct outputs (54.50%)
+[2024.11.07-21.52.48:094][254]LogShaderCompilers: Display: RAM used: 5.04 MiB of 716.80 MiB budget. Usage: 0.70%
+[2024.11.07-21.52.48:094][254]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.07-21.52.48:094][254]LogShaderCompilers: Display: Shaders Compiled: 155
+[2024.11.07-21.52.48:094][254]LogShaderCompilers: Display: Jobs assigned 155, completed 155 (100%)
+[2024.11.07-21.52.48:094][254]LogShaderCompilers: Display: Average time worker was idle: 35.71 s
+[2024.11.07-21.52.48:094][254]LogShaderCompilers: Display: Time job spent in pending queue: average 0.26 s, longest 1.68 s
+[2024.11.07-21.52.48:094][254]LogShaderCompilers: Display: Job execution time: average 0.55 s, max 1.69 s
+[2024.11.07-21.52.48:094][254]LogShaderCompilers: Display: Job life time (pending + execution): average 0.81 s, max 2.10
+[2024.11.07-21.52.48:094][254]LogShaderCompilers: Display: Shader code size: average 45.77 KiB, min 4.668 KiB, max 93.699 KiB
+[2024.11.07-21.52.48:094][254]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 17.61 s
+[2024.11.07-21.52.48:094][254]LogShaderCompilers: Display: Jobs were issued in 155 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.07-21.52.48:094][254]LogShaderCompilers: Display: Average processing rate: 8.80 jobs/sec
+[2024.11.07-21.52.48:094][254]LogShaderCompilers: Display: Total thread time: 63.793 s
+[2024.11.07-21.52.48:094][254]LogShaderCompilers: Display: Total thread preprocess time: 10.83 s
+[2024.11.07-21.52.48:094][254]LogShaderCompilers: Display: Percentage time preprocessing: 16.98%
+[2024.11.07-21.52.48:094][254]LogShaderCompilers: Display: Effective parallelization: 3.62 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.11.07-21.52.48:094][254]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.07-21.52.48:094][254]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    1 times, average 0.83 sec, max 0.83 sec, min 0.83 sec)
+[2024.11.07-21.52.48:094][254]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2024.11.07-21.52.48:094][254]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2024.11.07-21.52.48:094][254]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    1 times, average 0.65 sec, max 0.65 sec, min 0.65 sec)
+[2024.11.07-21.52.48:094][254]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2024.11.07-21.52.48:094][254]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.07-21.52.48:096][254]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.01% of total time (compiled   12 times, average 0.43 sec, max 0.78 sec, min 0.23 sec)
+[2024.11.07-21.52.48:096][254]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.85% of total time (compiled   12 times, average 0.42 sec, max 0.78 sec, min 0.29 sec)
+[2024.11.07-21.52.48:096][254]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.82% of total time (compiled    8 times, average 0.54 sec, max 1.10 sec, min 0.36 sec)
+[2024.11.07-21.52.48:096][254]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.61% of total time (compiled    8 times, average 0.53 sec, max 1.01 sec, min 0.39 sec)
+[2024.11.07-21.52.48:096][254]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 6.41% of total time (compiled    8 times, average 0.51 sec, max 1.09 sec, min 0.32 sec)
+[2024.11.07-21.52.48:096][254]LogShaderCompilers: Display: ================================================
+[2024.11.07-21.52.48:123][255]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.11.07-21.52.48:123][255]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.11.07-21.52.48:123][255]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.07-21.52.48:123][255]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-21.52.48:123][255]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.52.50:168][352]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.52.50:169][352]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-21.52.50:169][352]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.52.50:221][354]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.11.07-21.52.50:221][354]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.11.07-21.52.50:221][354]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.07-21.52.50:221][354]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-21.52.50:221][354]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.52.54:879][585]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.52.54:879][585]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.52.54:879][585]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.52.54:879][585]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.52.55:003][587]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.11.07-21.52.55:003][587]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.52.55:003][587]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.07-21.52.55:003][587]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.52.55:003][587]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.52.55:003][587]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.52.56:502][662]LogMaterialEditor: Saving and Compiling material bala_panjereh
+[2024.11.07-21.52.56:583][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.11.07-21.52.56:776][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.11.07-21.52.56:787][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.07-21.52.56:919][662]LogSavePackage: Moving output files for package: /Game/StorageRoom/bala_panjereh
+[2024.11.07-21.52.56:920][662]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/bala_panjereh17346AA346F85647398824912DDE8761.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/bala_panjereh.uasset'
+[2024.11.07-21.52.56:931][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 13.2 sec)
+[2024.11.07-21.52.56:932][662]AssetCheck: New page: Asset Save: bala_panjereh
+[2024.11.07-21.52.56:932][662]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StorageRoom/bala_panjereh.bala_panjereh
+[2024.11.07-21.52.56:940][662]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.11.07-21.52.56:940][662]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.52.56:940][662]MaterialEditorStats: MaxSampler: 244 instructions
+[2024.11.07-21.52.56:940][662]MaterialEditorStats: Texture samplers: 4/16
+[2024.11.07-21.52.56:940][662]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.52.56:940][662]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.52.56:940][662]MaterialEditorStats: Shader Count: 16
+[2024.11.07-21.53.02:862][975]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.11.07-21.53.02:862][975]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.53.02:862][975]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.07-21.53.02:862][975]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.53.02:862][975]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.53.02:862][975]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.53.04:674][ 67]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.53.04:674][ 67]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-21.53.04:674][ 67]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.53.04:674][ 67]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.53.05:226][ 85]MaterialEditorStats: Texture samplers: 1/16
+[2024.11.07-21.53.05:226][ 85]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-21.53.05:226][ 85]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.53.05:226][ 85]MaterialEditorStats: Shader Count: 1
+[2024.11.07-21.53.05:431][ 94]MaterialEditorStats: Base pass shader: 197 instructions
+[2024.11.07-21.53.05:431][ 94]MaterialEditorStats: Texture samplers: 4/16
+[2024.11.07-21.53.05:431][ 94]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-21.53.05:431][ 94]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.53.05:431][ 94]MaterialEditorStats: Shader Count: 3
+[2024.11.07-21.53.05:515][ 98]MaterialEditorStats: Base pass shader: 197 instructions
+[2024.11.07-21.53.05:515][ 98]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.53.05:515][ 98]MaterialEditorStats: Texture samplers: 4/16
+[2024.11.07-21.53.05:515][ 98]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-21.53.05:515][ 98]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.53.05:515][ 98]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.53.05:930][117]LogMaterialEditor: Applying material bala_panjereh
+[2024.11.07-21.53.05:980][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.11.07-21.53.06:532][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.11.07-21.53.07:209][145]LogMaterialEditor: Saving and Compiling material bala_panjereh
+[2024.11.07-21.53.07:212][145]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.07-21.53.08:161][145]LogSavePackage: Moving output files for package: /Game/StorageRoom/bala_panjereh
+[2024.11.07-21.53.08:161][145]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/bala_panjereh0F9FA10A4BFE3907F149E398981449C5.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/bala_panjereh.uasset'
+[2024.11.07-21.53.08:170][145]LogFileHelpers: InternalPromptForCheckoutAndSave took 957 ms (total: 14.2 sec)
+[2024.11.07-21.53.08:172][145]AssetCheck: New page: Asset Save: bala_panjereh
+[2024.11.07-21.53.08:172][145]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StorageRoom/bala_panjereh.bala_panjereh
+[2024.11.07-21.53.08:172][145]MaterialEditorStats: Base pass shader: 197 instructions
+[2024.11.07-21.53.08:172][145]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.53.08:172][145]MaterialEditorStats: MaxSampler: 246 instructions
+[2024.11.07-21.53.08:172][145]MaterialEditorStats: Texture samplers: 5/16
+[2024.11.07-21.53.08:172][145]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-21.53.08:172][145]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.53.08:172][145]MaterialEditorStats: Shader Count: 16
+[2024.11.07-21.53.08:635][166]LogSlate: Window 'bala_panjereh' being destroyed
+[2024.11.07-21.53.08:657][166]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.11.07-21.53.08:657][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.07-21.53.30:417][432]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StorageRoom/sotoon_1.sotoon_1
+[2024.11.07-21.53.30:422][432]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.07-21.53.30:422][432]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.07-21.53.30:594][432]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.53.30:594][432]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-21.53.30:594][432]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.53.30:604][432]LogViewport: Scene viewport resized to 374x421, mode Windowed.
+[2024.11.07-21.53.30:688][434]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.11.07-21.53.30:688][434]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.11.07-21.53.30:688][434]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.07-21.53.30:688][434]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-21.53.30:688][434]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.53.34:857][633]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.53.34:857][633]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.53.34:857][633]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.53.34:857][633]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.53.34:979][635]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.11.07-21.53.34:979][635]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.53.34:979][635]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.07-21.53.34:979][635]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.53.34:979][635]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.53.34:979][635]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.53.36:252][692]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.53.36:252][692]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.53.36:252][692]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.53.36:252][692]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.53.36:310][694]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.11.07-21.53.36:311][694]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.53.36:311][694]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.07-21.53.36:311][694]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.53.36:311][694]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.53.36:311][694]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.53.42:296][991]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.53.42:297][991]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-21.53.42:297][991]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.53.42:297][991]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.53.42:418][993]MaterialEditorStats: Base pass shader: 197 instructions
+[2024.11.07-21.53.42:418][993]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.53.42:418][993]MaterialEditorStats: Texture samplers: 4/16
+[2024.11.07-21.53.42:418][993]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-21.53.42:418][993]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.53.42:418][993]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.53.43:367][ 39]LogMaterialEditor: Applying material sotoon_1
+[2024.11.07-21.53.43:449][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.11.07-21.53.43:639][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.11.07-21.53.44:235][ 64]LogMaterialEditor: Saving and Compiling material sotoon_1
+[2024.11.07-21.53.44:239][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.07-21.53.44:366][ 64]LogSavePackage: Moving output files for package: /Game/StorageRoom/sotoon_1
+[2024.11.07-21.53.44:367][ 64]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/sotoon_1DD5A1AC74FE58883C5A51796E306510F.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/sotoon_1.uasset'
+[2024.11.07-21.53.44:377][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 14.3 sec)
+[2024.11.07-21.53.44:378][ 64]AssetCheck: New page: Asset Save: sotoon_1
+[2024.11.07-21.53.44:378][ 64]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StorageRoom/sotoon_1.sotoon_1
+[2024.11.07-21.53.44:378][ 64]MaterialEditorStats: Base pass shader: 197 instructions
+[2024.11.07-21.53.44:378][ 64]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.53.44:378][ 64]MaterialEditorStats: MaxSampler: 246 instructions
+[2024.11.07-21.53.44:378][ 64]MaterialEditorStats: Texture samplers: 5/16
+[2024.11.07-21.53.44:378][ 64]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-21.53.44:379][ 64]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.53.44:379][ 64]MaterialEditorStats: Shader Count: 16
+[2024.11.07-21.53.45:142][101]LogSlate: Window 'sotoon_1' being destroyed
+[2024.11.07-21.53.45:170][101]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.11.07-21.53.45:170][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.07-21.54.06:732][344]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StorageRoom/wall.wall
+[2024.11.07-21.54.06:736][344]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.07-21.54.06:736][344]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.07-21.54.06:912][344]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.54.06:912][344]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-21.54.06:912][344]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.54.06:921][344]LogViewport: Scene viewport resized to 374x421, mode Windowed.
+[2024.11.07-21.54.06:988][346]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.11.07-21.54.06:989][346]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.11.07-21.54.06:989][346]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.07-21.54.06:989][346]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-21.54.06:989][346]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.54.09:290][456]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.54.09:290][456]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-21.54.09:290][456]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.54.09:342][458]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.11.07-21.54.09:342][458]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.11.07-21.54.09:342][458]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.07-21.54.09:342][458]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-21.54.09:342][458]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.54.15:296][747]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.54.15:297][747]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.54.15:297][747]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.54.15:297][747]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.54.15:424][749]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.11.07-21.54.15:424][749]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.54.15:424][749]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.07-21.54.15:424][749]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.54.15:424][749]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.54.15:424][749]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.54.20:817][ 16]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.54.20:817][ 16]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-21.54.20:817][ 16]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.54.20:817][ 16]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.54.20:938][ 18]MaterialEditorStats: Base pass shader: 197 instructions
+[2024.11.07-21.54.20:938][ 18]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.54.20:938][ 18]MaterialEditorStats: Texture samplers: 4/16
+[2024.11.07-21.54.20:939][ 18]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-21.54.20:939][ 18]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.54.20:939][ 18]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.54.22:350][ 86]LogMaterialEditor: Applying material wall
+[2024.11.07-21.54.22:428][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.11.07-21.54.22:615][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.11.07-21.54.23:260][113]LogMaterialEditor: Saving and Compiling material wall
+[2024.11.07-21.54.23:262][113]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.07-21.54.23:393][113]LogSavePackage: Moving output files for package: /Game/StorageRoom/wall
+[2024.11.07-21.54.23:394][113]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/wallB847F23B4647D74EC77F76B8A46B17C3.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/wall.uasset'
+[2024.11.07-21.54.23:403][113]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 14.5 sec)
+[2024.11.07-21.54.23:404][113]AssetCheck: New page: Asset Save: wall
+[2024.11.07-21.54.23:405][113]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StorageRoom/wall.wall
+[2024.11.07-21.54.23:405][113]MaterialEditorStats: Base pass shader: 197 instructions
+[2024.11.07-21.54.23:405][113]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.54.23:405][113]MaterialEditorStats: MaxSampler: 246 instructions
+[2024.11.07-21.54.23:405][113]MaterialEditorStats: Texture samplers: 5/16
+[2024.11.07-21.54.23:405][113]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-21.54.23:405][113]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.54.23:405][113]MaterialEditorStats: Shader Count: 16
+[2024.11.07-21.54.24:125][148]LogSlate: Window 'wall' being destroyed
+[2024.11.07-21.54.24:144][148]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.11.07-21.54.24:144][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.07-21.54.30:275][495]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StorageRoom/Win.Win
+[2024.11.07-21.54.30:279][495]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.07-21.54.30:279][495]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.07-21.54.30:468][495]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.54.30:468][495]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-21.54.30:468][495]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.54.30:478][495]LogViewport: Scene viewport resized to 374x421, mode Windowed.
+[2024.11.07-21.54.30:552][497]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.11.07-21.54.30:552][497]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.11.07-21.54.30:552][497]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.07-21.54.30:552][497]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-21.54.30:552][497]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.54.32:941][607]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.54.32:941][607]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-21.54.32:941][607]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.54.32:998][609]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.11.07-21.54.32:998][609]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.11.07-21.54.32:998][609]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.07-21.54.32:998][609]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-21.54.32:998][609]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.54.40:344][978]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.54.40:344][978]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.54.40:344][978]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.54.40:344][978]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.54.40:464][980]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.11.07-21.54.40:464][980]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.54.40:464][980]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.07-21.54.40:464][980]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.54.40:464][980]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.54.40:464][980]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.54.41:512][ 29]LogMaterialEditor: Applying material Win
+[2024.11.07-21.54.41:592][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.11.07-21.54.41:789][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.11.07-21.54.42:427][ 55]LogMaterialEditor: Saving and Compiling material Win
+[2024.11.07-21.54.42:430][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.07-21.54.42:560][ 55]LogSavePackage: Moving output files for package: /Game/StorageRoom/Win
+[2024.11.07-21.54.42:561][ 55]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Win825B2C09455B730A02FAD3BD5709E576.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/Win.uasset'
+[2024.11.07-21.54.42:571][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 14.6 sec)
+[2024.11.07-21.54.42:572][ 55]AssetCheck: New page: Asset Save: Win
+[2024.11.07-21.54.42:572][ 55]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StorageRoom/Win.Win
+[2024.11.07-21.54.42:573][ 55]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.11.07-21.54.42:573][ 55]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.54.42:573][ 55]MaterialEditorStats: MaxSampler: 244 instructions
+[2024.11.07-21.54.42:573][ 55]MaterialEditorStats: Texture samplers: 4/16
+[2024.11.07-21.54.42:573][ 55]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.54.42:573][ 55]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.54.42:573][ 55]MaterialEditorStats: Shader Count: 16
+[2024.11.07-21.54.46:249][234]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.11.07-21.54.46:249][234]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.54.46:249][234]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.07-21.54.46:249][234]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.54.46:249][234]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.54.46:249][234]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.54.47:883][317]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.54.47:883][317]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-21.54.47:883][317]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.54.47:883][317]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.54.48:001][320]MaterialEditorStats: Base pass shader: 198 instructions
+[2024.11.07-21.54.48:001][320]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.54.48:001][320]MaterialEditorStats: Texture samplers: 4/16
+[2024.11.07-21.54.48:001][320]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-21.54.48:001][320]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.54.48:001][320]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.54.55:182][672]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.54.55:182][672]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.11.07-21.54.55:182][672]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.54.55:182][672]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.54.55:302][674]MaterialEditorStats: Base pass shader: 201 instructions
+[2024.11.07-21.54.55:302][674]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.54.55:302][674]MaterialEditorStats: Texture samplers: 5/16
+[2024.11.07-21.54.55:302][674]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.11.07-21.54.55:302][674]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.54.55:302][674]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.54.56:615][736]LogMaterialEditor: Applying material Win
+[2024.11.07-21.54.56:663][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.11.07-21.54.56:875][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.11.07-21.54.57:471][761]LogMaterialEditor: Saving and Compiling material Win
+[2024.11.07-21.54.57:474][761]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.07-21.54.57:595][761]LogSavePackage: Moving output files for package: /Game/StorageRoom/Win
+[2024.11.07-21.54.57:596][761]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/WinF4994A6F4401A2021C650F84CC9DC005.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/Win.uasset'
+[2024.11.07-21.54.57:606][761]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 14.7 sec)
+[2024.11.07-21.54.57:607][761]AssetCheck: New page: Asset Save: Win
+[2024.11.07-21.54.57:607][761]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StorageRoom/Win.Win
+[2024.11.07-21.54.57:607][761]MaterialEditorStats: Base pass shader: 201 instructions
+[2024.11.07-21.54.57:607][761]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.54.57:607][761]MaterialEditorStats: MaxSampler: 250 instructions
+[2024.11.07-21.54.57:607][761]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.07-21.54.57:607][761]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.11.07-21.54.57:607][761]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.54.57:607][761]MaterialEditorStats: Shader Count: 16
+[2024.11.07-21.55.05:331][145]LogSlate: Window 'Win' being destroyed
+[2024.11.07-21.55.05:350][145]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.11.07-21.55.05:350][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.07-21.55.41:231][216]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StorageRoom/nime.nime
+[2024.11.07-21.55.41:236][216]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.07-21.55.41:236][216]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.07-21.55.41:416][216]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.55.41:416][216]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-21.55.41:416][216]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.55.41:426][216]LogViewport: Scene viewport resized to 374x421, mode Windowed.
+[2024.11.07-21.55.41:505][218]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.11.07-21.55.41:505][218]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.11.07-21.55.41:505][218]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.07-21.55.41:505][218]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-21.55.41:505][218]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.55.46:180][454]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.55.46:180][454]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.55.46:180][454]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.55.46:180][454]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.55.46:301][456]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.11.07-21.55.46:302][456]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.55.46:302][456]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.07-21.55.46:302][456]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.55.46:302][456]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.55.46:302][456]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.55.47:351][508]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.55.47:351][508]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.55.47:351][508]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.55.47:351][508]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.55.47:409][510]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.11.07-21.55.47:409][510]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.55.47:409][510]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.07-21.55.47:409][510]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.55.47:409][510]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.55.47:409][510]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display: ================================================
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display: Total job queries 4,442, among them cache hits 4,226 (95.14%)
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display: Tracking 216 distinct input hashes that result in 119 distinct outputs (55.09%)
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display: RAM used: 5.43 MiB of 716.80 MiB budget. Usage: 0.76%
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display: Shaders Compiled: 171
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display: Jobs assigned 171, completed 171 (100%)
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display: Average time worker was idle: 34.57 s
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display: Time job spent in pending queue: average 0.25 s, longest 1.68 s
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display: Job execution time: average 0.55 s, max 1.69 s
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display: Job life time (pending + execution): average 0.79 s, max 2.10
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display: Shader code size: average 45.518 KiB, min 4.668 KiB, max 93.699 KiB
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.59 s
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display: Jobs were issued in 171 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display: Average processing rate: 8.73 jobs/sec
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display: Total thread time: 69.174 s
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display: Total thread preprocess time: 11.454 s
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display: Percentage time preprocessing: 16.56%
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display: Effective parallelization: 3.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    1 times, average 0.83 sec, max 0.83 sec, min 0.83 sec)
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    1 times, average 0.65 sec, max 0.65 sec, min 0.65 sec)
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.02% of total time (compiled   13 times, average 0.43 sec, max 0.78 sec, min 0.23 sec)
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.79% of total time (compiled   13 times, average 0.41 sec, max 0.78 sec, min 0.29 sec)
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.88% of total time (compiled    9 times, average 0.53 sec, max 1.10 sec, min 0.36 sec)
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.72% of total time (compiled    9 times, average 0.52 sec, max 1.01 sec, min 0.39 sec)
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 6.45% of total time (compiled    9 times, average 0.50 sec, max 1.09 sec, min 0.32 sec)
+[2024.11.07-21.55.50:028][641]LogShaderCompilers: Display: ================================================
+[2024.11.07-21.55.52:117][752]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.55.52:117][752]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-21.55.52:117][752]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.55.52:117][752]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.55.52:251][754]MaterialEditorStats: Base pass shader: 197 instructions
+[2024.11.07-21.55.52:251][754]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.55.52:251][754]MaterialEditorStats: Texture samplers: 4/16
+[2024.11.07-21.55.52:251][754]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-21.55.52:251][754]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.55.52:251][754]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.55.55:451][931]LogMaterialEditor: Saving and Compiling material nime
+[2024.11.07-21.55.55:528][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.11.07-21.55.55:715][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.11.07-21.55.55:727][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.07-21.55.55:859][931]LogSavePackage: Moving output files for package: /Game/StorageRoom/nime
+[2024.11.07-21.55.55:861][931]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/nimeC157C08C4A5D101BEF878885BDF78943.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/nime.uasset'
+[2024.11.07-21.55.55:870][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 14.9 sec)
+[2024.11.07-21.55.55:872][931]AssetCheck: New page: Asset Save: nime
+[2024.11.07-21.55.55:872][931]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StorageRoom/nime.nime
+[2024.11.07-21.55.55:879][931]MaterialEditorStats: Base pass shader: 197 instructions
+[2024.11.07-21.55.55:879][931]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.55.55:879][931]MaterialEditorStats: MaxSampler: 246 instructions
+[2024.11.07-21.55.55:879][931]MaterialEditorStats: Texture samplers: 5/16
+[2024.11.07-21.55.55:879][931]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-21.55.55:879][931]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.55.55:879][931]MaterialEditorStats: Shader Count: 16
+[2024.11.07-21.55.56:882][980]LogSlate: Window 'nime' being destroyed
+[2024.11.07-21.55.56:902][980]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.11.07-21.55.56:903][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.07-21.56.48:912][783]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StorageRoom/zirpanjereh.zirpanjereh
+[2024.11.07-21.56.48:917][783]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.07-21.56.48:917][783]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.07-21.56.49:182][783]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.56.49:182][783]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-21.56.49:182][783]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.56.49:193][783]LogViewport: Scene viewport resized to 374x421, mode Windowed.
+[2024.11.07-21.56.49:275][785]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.11.07-21.56.49:275][785]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.11.07-21.56.49:275][785]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.07-21.56.49:275][785]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-21.56.49:275][785]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.56.51:181][860]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.56.51:181][860]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-21.56.51:181][860]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.56.51:246][862]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.11.07-21.56.51:246][862]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.11.07-21.56.51:247][862]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.07-21.56.51:247][862]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.07-21.56.51:247][862]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.56.55:688][ 66]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.56.55:688][ 66]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.56.55:688][ 66]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.56.55:688][ 66]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.56.55:818][ 68]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.11.07-21.56.55:818][ 68]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.56.55:818][ 68]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.07-21.56.55:818][ 68]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.56.55:818][ 68]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.56.55:818][ 68]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.57.00:604][294]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.57.00:604][294]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-21.57.00:604][294]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.57.00:604][294]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.57.00:736][296]MaterialEditorStats: Base pass shader: 197 instructions
+[2024.11.07-21.57.00:736][296]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.57.00:736][296]MaterialEditorStats: Texture samplers: 4/16
+[2024.11.07-21.57.00:736][296]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-21.57.00:736][296]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.57.00:736][296]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.57.01:667][340]LogMaterialEditor: Applying material zirpanjereh
+[2024.11.07-21.57.01:755][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.11.07-21.57.01:947][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.11.07-21.57.02:440][359]LogMaterialEditor: Saving and Compiling material zirpanjereh
+[2024.11.07-21.57.02:443][359]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.07-21.57.02:568][359]LogSavePackage: Moving output files for package: /Game/StorageRoom/zirpanjereh
+[2024.11.07-21.57.02:570][359]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/zirpanjerehD72213554645EE1D8C46818E4A1EE02C.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/zirpanjereh.uasset'
+[2024.11.07-21.57.02:581][359]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 15.0 sec)
+[2024.11.07-21.57.02:582][359]AssetCheck: New page: Asset Save: zirpanjereh
+[2024.11.07-21.57.02:582][359]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StorageRoom/zirpanjereh.zirpanjereh
+[2024.11.07-21.57.02:583][359]MaterialEditorStats: Base pass shader: 197 instructions
+[2024.11.07-21.57.02:583][359]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.57.02:583][359]MaterialEditorStats: MaxSampler: 246 instructions
+[2024.11.07-21.57.02:583][359]MaterialEditorStats: Texture samplers: 5/16
+[2024.11.07-21.57.02:583][359]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-21.57.02:583][359]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.57.02:583][359]MaterialEditorStats: Shader Count: 16
+[2024.11.07-21.57.03:355][396]LogSlate: Window 'zirpanjereh' being destroyed
+[2024.11.07-21.57.03:376][396]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.11.07-21.57.03:376][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.07-21.57.29:622][922]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StorageRoom/sotoon_1.sotoon_1
+[2024.11.07-21.57.29:627][922]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.07-21.57.29:627][922]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.07-21.57.29:802][922]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.57.29:802][922]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-21.57.29:802][922]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.57.29:802][922]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.57.29:810][922]LogViewport: Scene viewport resized to 374x421, mode Windowed.
+[2024.11.07-21.57.29:889][924]MaterialEditorStats: Base pass shader: 197 instructions
+[2024.11.07-21.57.29:889][924]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.57.29:889][924]MaterialEditorStats: Texture samplers: 4/16
+[2024.11.07-21.57.29:889][924]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-21.57.29:889][924]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.57.29:889][924]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.57.31:687][  5]LogMaterialEditor: Saving and Compiling material sotoon_1
+[2024.11.07-21.57.31:690][  5]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.07-21.57.31:769][  5]LogSavePackage: Moving output files for package: /Game/StorageRoom/sotoon_1
+[2024.11.07-21.57.31:770][  5]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/sotoon_162CA24FA4C171A41824E8C95B123E4B2.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/sotoon_1.uasset'
+[2024.11.07-21.57.31:780][  5]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 15.1 sec)
+[2024.11.07-21.57.31:781][  5]AssetCheck: New page: Asset Save: sotoon_1
+[2024.11.07-21.57.31:781][  5]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StorageRoom/sotoon_1.sotoon_1
+[2024.11.07-21.57.32:724][ 45]LogSlate: Window 'sotoon_1' being destroyed
+[2024.11.07-21.57.32:744][ 45]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.11.07-21.57.32:744][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.07-21.57.59:142][593]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StorageRoom/wall.wall
+[2024.11.07-21.57.59:145][593]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.07-21.57.59:145][593]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.07-21.57.59:368][593]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.57.59:368][593]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-21.57.59:368][593]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.57.59:368][593]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.57.59:378][593]LogViewport: Scene viewport resized to 374x421, mode Windowed.
+[2024.11.07-21.57.59:451][595]MaterialEditorStats: Base pass shader: 197 instructions
+[2024.11.07-21.57.59:451][595]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.57.59:452][595]MaterialEditorStats: Texture samplers: 4/16
+[2024.11.07-21.57.59:452][595]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.07-21.57.59:452][595]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.57.59:452][595]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.58.04:020][810]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.07-21.58.04:020][810]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.58.04:020][810]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.58.04:020][810]MaterialEditorStats: Shader Count: 0
+[2024.11.07-21.58.04:080][812]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.11.07-21.58.04:080][812]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.58.04:080][812]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.07-21.58.04:080][812]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.58.04:080][812]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.58.04:080][812]MaterialEditorStats: Shader Count: 4
+[2024.11.07-21.58.05:054][855]LogMaterialEditor: Saving and Compiling material wall
+[2024.11.07-21.58.05:143][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.11.07-21.58.05:335][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.11.07-21.58.05:347][855]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.07-21.58.05:484][855]LogSavePackage: Moving output files for package: /Game/StorageRoom/wall
+[2024.11.07-21.58.05:485][855]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/wall5E4E0BE44D11835902793AA84583DAB1.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/wall.uasset'
+[2024.11.07-21.58.05:493][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 15.3 sec)
+[2024.11.07-21.58.05:495][855]AssetCheck: New page: Asset Save: wall
+[2024.11.07-21.58.05:495][855]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StorageRoom/wall.wall
+[2024.11.07-21.58.05:500][855]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.11.07-21.58.05:500][855]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.07-21.58.05:500][855]MaterialEditorStats: MaxSampler: 244 instructions
+[2024.11.07-21.58.05:500][855]MaterialEditorStats: Texture samplers: 4/16
+[2024.11.07-21.58.05:500][855]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.07-21.58.05:500][855]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.07-21.58.05:500][855]MaterialEditorStats: Shader Count: 16
+[2024.11.07-21.58.07:261][932]LogSlate: Window 'wall' being destroyed
+[2024.11.07-21.58.07:283][932]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.11.07-21.58.07:283][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.07-21.58.29:692][235]Cmd: EDIT COPY
+[2024.11.07-21.58.29:875][246]Cmd: EDIT PASTE
+[2024.11.07-21.59.10:259][584]Cmd: EDIT COPY
+[2024.11.07-21.59.10:443][595]Cmd: EDIT PASTE
+[2024.11.07-21.59.20:216][159]Cmd: EDIT COPY
+[2024.11.07-21.59.20:400][170]Cmd: EDIT PASTE
+[2024.11.07-21.59.27:183][570]Cmd: EDIT COPY
+[2024.11.07-21.59.27:333][578]Cmd: EDIT PASTE
+[2024.11.07-21.59.44:495][587]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.07-21.59.44:577][587]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/PA/YGI6GFV72EDU16KV9XT4WY
+[2024.11.07-21.59.44:577][587]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/YGI6GFV72EDU16KV9XT4WY0FBF0F3446C0542D5899ECBF89124388.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/PA/YGI6GFV72EDU16KV9XT4WY.uasset'
+[2024.11.07-21.59.44:580][587]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/U9/238K09O60CEM9WNZDCFELL
+[2024.11.07-21.59.44:580][587]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/238K09O60CEM9WNZDCFELLFCE2FE8D49A5993CABFDEBA963B00DD4.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/U9/238K09O60CEM9WNZDCFELL.uasset'
+[2024.11.07-21.59.44:583][587]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/6U/7XARVTPS0QD30OQ0ZEFX8M
+[2024.11.07-21.59.44:583][587]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/7XARVTPS0QD30OQ0ZEFX8MBC049B4C48777A6E6695F2BBE9D7DD8A.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/6U/7XARVTPS0QD30OQ0ZEFX8M.uasset'
+[2024.11.07-21.59.44:586][587]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/WC/5VB7L7N7USWLH9XF6O6XQG
+[2024.11.07-21.59.44:586][587]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/5VB7L7N7USWLH9XF6O6XQG74F1ED1A4E5978984F1A68874DA518A5.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/WC/5VB7L7N7USWLH9XF6O6XQG.uasset'
+[2024.11.07-21.59.44:598][587]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 15.4 sec)
+[2024.11.07-21.59.44:601][587]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.07-21.59.44:601][587]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_6C240845FE43432D02_2048746809
+[2024.11.07-21.59.44:601][587]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_6C240845FE43432D02_2089314810
+[2024.11.07-21.59.44:601][587]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_6C240845FE43432D02_2099272811
+[2024.11.07-21.59.44:601][587]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PointLight_UAID_6C240845FE43432D02_2106205812
+[2024.11.07-21.59.48:927][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.11.07-21.59.48:940][839]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.07-21.59.49:051][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/01_01_BaseColor
+[2024.11.07-21.59.49:051][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/01_01_BaseColorB33E2AEA4E66374B46B0D690471A8043.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/01_01_BaseColor.uasset'
+[2024.11.07-21.59.49:060][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/01_01_Metallic
+[2024.11.07-21.59.49:060][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/01_01_Metallic6CB8293649ADF1DC94FCC38938D0ACD7.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/01_01_Metallic.uasset'
+[2024.11.07-21.59.49:114][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/01_01_Normal
+[2024.11.07-21.59.49:114][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/01_01_Normal6E97C3A54C64A6882CE3759EC6ED66E2.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/01_01_Normal.uasset'
+[2024.11.07-21.59.49:128][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/01_01_Roughness
+[2024.11.07-21.59.49:128][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/01_01_Roughness17A55C32433975A16679179F6F9B81E9.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/01_01_Roughness.uasset'
+[2024.11.07-21.59.49:140][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/01_02_Metallic
+[2024.11.07-21.59.49:140][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/01_02_Metallic2C93F670451508343DEA709A9EB8FD41.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/01_02_Metallic.uasset'
+[2024.11.07-21.59.49:191][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/01_02_Normal
+[2024.11.07-21.59.49:191][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/01_02_Normal8433EDFC48E2E0E6E1B77AA20ADC2C0E.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/01_02_Normal.uasset'
+[2024.11.07-21.59.49:292][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/01_bala_panjereh_BaseColor
+[2024.11.07-21.59.49:292][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/01_bala_panjereh_BaseColor5090952D400C724618CF62B45B598F7F.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/01_bala_panjereh_BaseColor.uasset'
+[2024.11.07-21.59.49:389][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/01_nime_BaseColor
+[2024.11.07-21.59.49:389][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/01_nime_BaseColor9EC7FD5E4653B29716B87B9D62AA6C75.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/01_nime_BaseColor.uasset'
+[2024.11.07-21.59.49:446][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/01_nime_Normal
+[2024.11.07-21.59.49:446][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/01_nime_Normal72F97C8E4527B3E8BD654FB1B1C68305.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/01_nime_Normal.uasset'
+[2024.11.07-21.59.49:479][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/01_nime_Roughness
+[2024.11.07-21.59.49:479][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/01_nime_Roughness9D92D8A441D540CEBFE0B8966D1B2161.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/01_nime_Roughness.uasset'
+[2024.11.07-21.59.49:559][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/01_sotoon_1_BaseColor
+[2024.11.07-21.59.49:559][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/01_sotoon_1_BaseColor4287D3C04A6994288EAC29B7EF9D817F.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/01_sotoon_1_BaseColor.uasset'
+[2024.11.07-21.59.49:646][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/01_wall_BaseColor
+[2024.11.07-21.59.49:646][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/01_wall_BaseColor65905EAA43565373AF9878B0F518A545.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/01_wall_BaseColor.uasset'
+[2024.11.07-21.59.49:667][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/01_sotoon_1_Roughness
+[2024.11.07-21.59.49:667][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/01_sotoon_1_Roughness0AF9A7024ED90E4211E8ECA6D42621A2.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/01_sotoon_1_Roughness.uasset'
+[2024.11.07-21.59.49:715][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/01_wall_Normal
+[2024.11.07-21.59.49:715][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/01_wall_NormalE9147B2B4484C027CD21CE9E05FD7140.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/01_wall_Normal.uasset'
+[2024.11.07-21.59.49:812][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/01_zirpanjereh_BaseColor
+[2024.11.07-21.59.49:812][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/01_zirpanjereh_BaseColor43FB3FD242F1AEBED25F56A809A65E38.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/01_zirpanjereh_BaseColor.uasset'
+[2024.11.07-21.59.49:849][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/Normal
+[2024.11.07-21.59.49:849][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Normal7DE2EEA346CB138068AACAB4CD88A9E1.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/Normal.uasset'
+[2024.11.07-21.59.49:860][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/sl4qlkd_2K_Albedo
+[2024.11.07-21.59.49:860][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/sl4qlkd_2K_AlbedoA731B2034ACE3511770D7789F7323FC3.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/sl4qlkd_2K_Albedo.uasset'
+[2024.11.07-21.59.49:871][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/sl4qlkd_2K_Normal
+[2024.11.07-21.59.49:871][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/sl4qlkd_2K_NormalC88E6D3340A3A477E3E14DBC2B93663F.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/sl4qlkd_2K_Normal.uasset'
+[2024.11.07-21.59.49:959][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/window4_w_BaseColor
+[2024.11.07-21.59.49:959][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/window4_w_BaseColor1D95B24C4527142A6F9A3FA90F4DF5E6.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/window4_w_BaseColor.uasset'
+[2024.11.07-21.59.50:039][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/window4_w_Normal
+[2024.11.07-21.59.50:039][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/window4_w_Normal48DC442140401A13E58190967FD37AF4.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/window4_w_Normal.uasset'
+[2024.11.07-21.59.50:117][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/پارکینگ_DefaultMaterial_BaseColor
+[2024.11.07-21.59.50:117][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/پارکینگ_DefaultMaterial_BaseColo0E21F2D7452D65C11D06068496F71B90.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/پارکینگ_DefaultMaterial_BaseColor.uasset'
+[2024.11.07-21.59.50:168][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/پارکینگ_DefaultMaterial_Normal
+[2024.11.07-21.59.50:168][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/پارکینگ_DefaultMaterial_Normal848B095E4EAE66FDF42449BFA1E1241C.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/پارکینگ_DefaultMaterial_Normal.uasset'
+[2024.11.07-21.59.50:180][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/01_02_Roughness
+[2024.11.07-21.59.50:180][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/01_02_Roughness22E87F11478FB6A0B84700A1550F249A.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/01_02_Roughness.uasset'
+[2024.11.07-21.59.50:207][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/01_02_BaseColor
+[2024.11.07-21.59.50:207][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/01_02_BaseColor3416799A4A60F8B88AC998876DBAF28D.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/01_02_BaseColor.uasset'
+[2024.11.07-21.59.50:254][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/01_bala_panjereh_Normal
+[2024.11.07-21.59.50:254][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/01_bala_panjereh_Normal01186BD048F400D4055856A4791E5405.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/01_bala_panjereh_Normal.uasset'
+[2024.11.07-21.59.50:282][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/01_bala_panjereh_Roughness
+[2024.11.07-21.59.50:282][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/01_bala_panjereh_Roughness148A376F43F63DC6F8087E8790E89F1A.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/01_bala_panjereh_Roughness.uasset'
+[2024.11.07-21.59.50:332][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/01_sotoon_1_Normal
+[2024.11.07-21.59.50:332][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/01_sotoon_1_Normal8934D41F4321BD3DA3BC88806CBB7218.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/01_sotoon_1_Normal.uasset'
+[2024.11.07-21.59.50:357][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/01_wall_Roughness
+[2024.11.07-21.59.50:357][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/01_wall_Roughness164FFB8344E3719ECD6C4DBB611C3576.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/01_wall_Roughness.uasset'
+[2024.11.07-21.59.50:410][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/01_zirpanjereh_Normal
+[2024.11.07-21.59.50:410][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/01_zirpanjereh_Normal1AF4908C4C2516F9538A46860174D025.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/01_zirpanjereh_Normal.uasset'
+[2024.11.07-21.59.50:440][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/BaseColor
+[2024.11.07-21.59.50:440][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/BaseColorB756EC60480A117A6F14FF8CEBBB4219.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/BaseColor.uasset'
+[2024.11.07-21.59.50:475][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/01_zirpanjereh_Roughness
+[2024.11.07-21.59.50:475][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/01_zirpanjereh_Roughness37CD3D914E034E29E7C700A628A770E2.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/01_zirpanjereh_Roughness.uasset'
+[2024.11.07-21.59.50:492][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/Roughness
+[2024.11.07-21.59.50:492][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/RoughnessB936DC134303DB781EC3D18B1440172A.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/Roughness.uasset'
+[2024.11.07-21.59.50:498][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/sl4qlkd_2K_Roughness
+[2024.11.07-21.59.50:498][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/sl4qlkd_2K_Roughness290E41214AADFBF57885A39D63B528D0.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/sl4qlkd_2K_Roughness.uasset'
+[2024.11.07-21.59.50:521][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/window4_w_Metallic
+[2024.11.07-21.59.50:521][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/window4_w_Metallic912C8EF24929BE992BA200A4A60571CB.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/window4_w_Metallic.uasset'
+[2024.11.07-21.59.50:548][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/window4_w_Roughness
+[2024.11.07-21.59.50:548][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/window4_w_Roughness289C95CF45F8C38177809A8BC6C4B4B0.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/window4_w_Roughness.uasset'
+[2024.11.07-21.59.50:573][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/پارکینگ_DefaultMaterial_Metallic
+[2024.11.07-21.59.50:573][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/پارکینگ_DefaultMaterial_Metallic39C2F4954BCEE63164F2BABE4D85343A.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/پارکینگ_DefaultMaterial_Metallic.uasset'
+[2024.11.07-21.59.50:604][839]LogSavePackage: Moving output files for package: /Game/StorageRoom/پارکینگ_DefaultMaterial_Roughness
+[2024.11.07-21.59.50:604][839]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/پارکینگ_DefaultMaterial_RoughnesACCB9DF54053073E0B1AA088F618517F.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/StorageRoom/پارکینگ_DefaultMaterial_Roughness.uasset'
+[2024.11.07-21.59.50:614][839]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.67 sec (total: 17.0 sec)
+[2024.11.07-21.59.50:620][839]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.07-21.59.50:620][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/01_01_BaseColor.01_01_BaseColor
+[2024.11.07-21.59.50:620][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/01_01_Metallic.01_01_Metallic
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/01_01_Normal.01_01_Normal
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/01_01_Roughness.01_01_Roughness
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/01_02_Metallic.01_02_Metallic
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/01_02_Normal.01_02_Normal
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/01_bala_panjereh_BaseColor.01_bala_panjereh_BaseColor
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/01_nime_BaseColor.01_nime_BaseColor
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/01_nime_Normal.01_nime_Normal
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/01_nime_Roughness.01_nime_Roughness
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/01_sotoon_1_BaseColor.01_sotoon_1_BaseColor
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/01_wall_BaseColor.01_wall_BaseColor
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/01_sotoon_1_Roughness.01_sotoon_1_Roughness
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/01_wall_Normal.01_wall_Normal
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/01_zirpanjereh_BaseColor.01_zirpanjereh_BaseColor
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/Normal.Normal
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/sl4qlkd_2K_Albedo.sl4qlkd_2K_Albedo
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/sl4qlkd_2K_Normal.sl4qlkd_2K_Normal
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/window4_w_BaseColor.window4_w_BaseColor
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/window4_w_Normal.window4_w_Normal
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/پارکینگ_DefaultMaterial_BaseColor.پارکینگ_DefaultMaterial_BaseColor
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/پارکینگ_DefaultMaterial_Normal.پارکینگ_DefaultMaterial_Normal
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/01_02_Roughness.01_02_Roughness
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/01_02_BaseColor.01_02_BaseColor
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/01_bala_panjereh_Normal.01_bala_panjereh_Normal
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/01_bala_panjereh_Roughness.01_bala_panjereh_Roughness
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/01_sotoon_1_Normal.01_sotoon_1_Normal
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/01_wall_Roughness.01_wall_Roughness
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/01_zirpanjereh_Normal.01_zirpanjereh_Normal
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/BaseColor.BaseColor
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/01_zirpanjereh_Roughness.01_zirpanjereh_Roughness
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/Roughness.Roughness
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/sl4qlkd_2K_Roughness.sl4qlkd_2K_Roughness
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/window4_w_Metallic.window4_w_Metallic
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/window4_w_Roughness.window4_w_Roughness
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/پارکینگ_DefaultMaterial_Metallic.پارکینگ_DefaultMaterial_Metallic
+[2024.11.07-21.59.50:621][839]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/StorageRoom/پارکینگ_DefaultMaterial_Roughness.پارکینگ_DefaultMaterial_Roughness
