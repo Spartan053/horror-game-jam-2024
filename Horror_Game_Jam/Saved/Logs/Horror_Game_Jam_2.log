@@ -1283,3 +1283,80 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.07-23.43.47:175][727]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/monster/Animations/Zombie_Attack.Zombie_Attack
 [2024.11.07-23.43.47:175][727]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/monster/Animations/Zombie_Attack_PhysicsAsset.Zombie_Attack_PhysicsAsset
 [2024.11.07-23.43.47:244][728]LogAutomationController: Ignoring very large delta of 2.46 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.07-23.44.22:050][ 90]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/david/Downloads/skinny-monster-2/source/monsterforgame.fbx)
+[2024.11.07-23.44.22:109][ 90]LogFbx: Loading FBX Scene from ../../../../../../Users/david/Downloads/skinny-monster-2/source/monsterforgame.fbx
+[2024.11.07-23.44.22:448][ 90]LogFbx: FBX Scene Loaded Succesfully
+[2024.11.07-23.44.27:689][ 90]LogSlate: Took 0.001072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.11.07-23.44.27:889][ 90]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.07-23.44.28:172][ 90]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.07-23.44.45:718][ 90]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.11.07-23.44.45:788][ 90]LogMaterial: Display: Material /Game/monster/Material_011.Material_011 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.11.07-23.44.46:130][ 90]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.11.07-23.44.46:131][ 90]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.11.07-23.44.46:154][ 90]LogTexture: Display: Building textures: /Game/monster/monsterskin.monsterskin (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.11.07-23.44.46:269][ 90]LogMaterial: Display: Material /Game/monster/Material_013.Material_013 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.11.07-23.44.46:423][ 90]LogMaterial: Display: Material /Game/monster/Material_014.Material_014 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.11.07-23.44.46:503][ 90]LogEditorFactories: Display: JPEG imported and retained as JPEG in uasset.
+[2024.11.07-23.44.46:505][ 90]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.11.07-23.44.46:522][ 90]LogTexture: Display: Building textures: /Game/monster/eyered.eyered (TFO_AutoDXT, 1920x1080 x1x1x1) (Required Memory Estimate: 168.460938 MB), EncodeSpeed: Fast
+[2024.11.07-23.44.46:536][ 90]LogFbx: Triangulating skeletal mesh monsterforgame.002
+[2024.11.07-23.45.05:607][ 90]LogFbx: Bones digested - 1  Depth of hierarchy - 1
+[2024.11.07-23.45.21:624][ 90]LogSkeletalMesh: Display: /Game/monster/monsterforgame.monsterforgame ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2024.11.07-23.45.47:543][ 90]LogSkeletalMesh: Section 0: Material=0, 687208 triangles
+[2024.11.07-23.45.47:543][ 90]LogSkeletalMesh: Section 1: Material=1, 1824 triangles
+[2024.11.07-23.45.47:543][ 90]LogSkeletalMesh: Section 2: Material=2, 31744 triangles
+[2024.11.07-23.45.48:787][ 90]LogSkeletalMesh: Building Skeletal Mesh monsterforgame...
+[2024.11.07-23.45.48:911][ 90]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (monsterforgame) ...
+[2024.11.07-23.45.48:914][ 90]LogShaderCompilers: Display: ================================================
+[2024.11.07-23.45.48:914][ 90]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.07-23.45.48:914][ 90]LogShaderCompilers: Display: Total job queries 2,402, among them cache hits 2,307 (96.04%)
+[2024.11.07-23.45.48:914][ 90]LogShaderCompilers: Display: Tracking 73 distinct input hashes that result in 37 distinct outputs (50.68%)
+[2024.11.07-23.45.48:914][ 90]LogShaderCompilers: Display: RAM used: 1.63 MiB of 716.80 MiB budget. Usage: 0.23%
+[2024.11.07-23.45.48:914][ 90]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.07-23.45.48:914][ 90]LogShaderCompilers: Display: Shaders Compiled: 8
+[2024.11.07-23.45.48:914][ 90]LogShaderCompilers: Display: Jobs assigned 8, completed 8 (100%)
+[2024.11.07-23.45.48:914][ 90]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.09 s
+[2024.11.07-23.45.48:914][ 90]LogShaderCompilers: Display: Job execution time: average 2.08 s, max 2.15 s
+[2024.11.07-23.45.48:915][ 90]LogShaderCompilers: Display: Job life time (pending + execution): average 2.12 s, max 2.18
+[2024.11.07-23.45.48:915][ 90]LogShaderCompilers: Display: Shader code size: average 45.377 KiB, min 35.125 KiB, max 60.668 KiB
+[2024.11.07-23.45.48:915][ 90]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.24 s
+[2024.11.07-23.45.48:915][ 90]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.07-23.45.48:915][ 90]LogShaderCompilers: Display: Average processing rate: 3.57 jobs/sec
+[2024.11.07-23.45.48:915][ 90]LogShaderCompilers: Display: Total thread time: 5.119 s
+[2024.11.07-23.45.48:915][ 90]LogShaderCompilers: Display: Total thread preprocess time: 0.786 s
+[2024.11.07-23.45.48:915][ 90]LogShaderCompilers: Display: Percentage time preprocessing: 15.35%
+[2024.11.07-23.45.48:915][ 90]LogShaderCompilers: Display: Effective parallelization: 2.28 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.11.07-23.45.48:915][ 90]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.07-23.45.48:916][ 90]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2024.11.07-23.45.48:916][ 90]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2024.11.07-23.45.48:916][ 90]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2024.11.07-23.45.48:916][ 90]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.66 sec, max 0.66 sec, min 0.66 sec)
+[2024.11.07-23.45.48:916][ 90]LogShaderCompilers: Display:               TBasePassVSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 0.64 sec, max 0.64 sec, min 0.64 sec)
+[2024.11.07-23.45.48:916][ 90]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.07-23.45.48:916][ 90]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 14.54% of total time (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2024.11.07-23.45.48:916][ 90]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 14.41% of total time (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2024.11.07-23.45.48:916][ 90]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 13.13% of total time (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2024.11.07-23.45.48:916][ 90]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 12.97% of total time (compiled    1 times, average 0.66 sec, max 0.66 sec, min 0.66 sec)
+[2024.11.07-23.45.48:916][ 90]LogShaderCompilers: Display:               TBasePassVSFCachedVolumeIndirectLightingPolicy - 12.53% of total time (compiled    1 times, average 0.64 sec, max 0.64 sec, min 0.64 sec)
+[2024.11.07-23.45.48:916][ 90]LogShaderCompilers: Display: ================================================
+[2024.11.07-23.45.58:898][ 90]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' exceeded budget of 10.000000s
+[2024.11.07-23.46.00:846][ 90]LogSkeletalMesh: Display: /Game/monster/monsterforgame.monsterforgame ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2024.11.07-23.46.25:576][ 90]LogSkeletalMesh: Built Skeletal Mesh [36.79s] /Game/monster/monsterforgame.monsterforgame
+[2024.11.07-23.46.25:759][ 90]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' complete in 36.866296s (26.866296s overbudget)
+[2024.11.07-23.46.35:429][ 90]LogSlate: Window 'Message' being destroyed
+[2024.11.07-23.46.35:436][ 90]Message dialog closed, result: YesAll, title: Message, text: FAILED TO MERGE BONES:
+
+ This could happen if significant hierarchical changes have been made
+e.g. inserting a bone between nodes.
+Would you like to regenerate the Skeleton from this mesh?
+
+***WARNING: THIS MAY INVALIDATE OR REQUIRE RECOMPRESSION OF ANIMATION DATA.***
+
+[2024.11.07-23.46.44:684][ 90]LogSlate: Window 'Message' being destroyed
+[2024.11.07-23.46.44:689][ 90]Message dialog closed, result: Yes, title: Message, text: Would you like to merge all SkeletalMeshes using this skeleton to ensure all bones are merged? This will require to load those SkeletalMeshes.
+[2024.11.07-23.46.45:978][ 90]LogSlate: Window 'Message' being destroyed
+[2024.11.07-23.46.45:983][ 90]Message dialog closed, result: Ok, title: Message, text: Failed to merge SkeletalMesh 'Zombie_Crawl'.
+[2024.11.07-23.46.46:763][ 90]LogSlate: Window 'Message' being destroyed
+[2024.11.07-23.46.46:769][ 90]Message dialog closed, result: Ok, title: Message, text: Failed to merge SkeletalMesh 'Zombie_Run'.
+[2024.11.07-23.46.47:440][ 90]LogSlate: Window 'Message' being destroyed
+[2024.11.07-23.46.47:448][ 90]Message dialog closed, result: Ok, title: Message, text: Failed to merge SkeletalMesh 'Zombie_Attack'.
