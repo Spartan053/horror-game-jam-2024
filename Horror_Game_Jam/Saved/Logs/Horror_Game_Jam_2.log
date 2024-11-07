@@ -1174,3 +1174,18 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.07-23.34.40:800][229]LogSlate: Window 'Content Browser' being destroyed
 [2024.11.07-23.34.41:944][266]LogSlate: Window 'Message Log' being destroyed
 [2024.11.07-23.34.41:950][266]LogSlate: Window 'Message Log' being destroyed
+[2024.11.07-23.35.03:907][624]LogUObjectHash: Compacting FUObjectHashTables data took  15.11ms
+[2024.11.07-23.35.03:954][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.07-23.35.04:489][624]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.027430 seconds
+[2024.11.07-23.35.06:094][624]LogSavePackage: Moving output files for package: /Game/monster/Animations/Zombie_Crawl
+[2024.11.07-23.35.06:095][624]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Zombie_Crawl447883C74996BF54EC64C595A31C1BE8.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/monster/Animations/Zombie_Crawl.uasset'
+[2024.11.07-23.35.06:219][624]LogSavePackage: Moving output files for package: /Game/monster/Animations/Zombie_Crawl_Skeleton
+[2024.11.07-23.35.06:220][624]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Zombie_Crawl_Skeleton80288C62494416037B5BE4ADB6E540C7.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/monster/Animations/Zombie_Crawl_Skeleton.uasset'
+[2024.11.07-23.35.06:347][624]LogSavePackage: Moving output files for package: /Game/monster/Animations/Zombie_Crawl_PhysicsAsset
+[2024.11.07-23.35.06:347][624]LogSavePackage: Moving '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Saved/Zombie_Crawl_PhysicsAsset7BA850C9414618FE05C1EB8C281C851B.tmp' to '../../../../../../Users/david/OneDrive/Desktop/HorrorGame/horror-game-jam-2024/Horror_Game_Jam/Horror_Game_Jam/Content/monster/Animations/Zombie_Crawl_PhysicsAsset.uasset'
+[2024.11.07-23.35.06:378][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.42 sec
+[2024.11.07-23.35.06:392][624]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.07-23.35.06:392][624]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/monster/Animations/Zombie_Crawl.Zombie_Crawl
+[2024.11.07-23.35.06:393][624]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/monster/Animations/Zombie_Crawl_Skeleton.Zombie_Crawl_Skeleton
+[2024.11.07-23.35.06:393][624]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/monster/Animations/Zombie_Crawl_PhysicsAsset.Zombie_Crawl_PhysicsAsset
+[2024.11.07-23.35.06:575][624]LogAutomationController: Ignoring very large delta of 2.80 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
